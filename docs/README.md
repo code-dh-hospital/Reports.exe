@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0712.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32407120-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32407120-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32407120-NasDHSolutions.json)
+## 3.24.0808.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32408080-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32408080-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32408080-NasDHSolutions.json)
+
+- 🐛: Sửa lỗi: XML 4210 tính sai tiền BNCCT và BHTT (BV Tim Mạch AG).
+- ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/124
+## [v.3.24.0712.0]()
 
 - ✨: Sổ TT/PT theo [Mô tả thực hiện Thủ thuật/Phẫu thuật đối với Cận lâm sàng](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/M%C3%B4%20t%E1%BA%A3%20th%E1%BB%B1c%20hi%E1%BB%87n%20Th%E1%BB%A7%20thu%E1%BA%ADt-Ph%E1%BA%ABu%20thu%E1%BA%ADt%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20C%E1%BA%ADn%20l%C3%A2m%20s%C3%A0ng.md)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/455
