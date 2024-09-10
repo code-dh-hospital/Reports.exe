@@ -5,7 +5,15 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0909.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409091-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409091-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409091-NasDHSolutions.json)
+## 3.24.0910.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409101-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409101-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409101-NasDHSolutions.json)
+
+- ✨: Bổ sung chức năng cho phép đặt lại `tháng/năm` của các cột `ngay_ttoan`, `thang_qt`, `nam_qt` với các tùy chọn như hình. ![](https://i.imgur.com/kpBF3AV.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/636
+## [v.3.24.0910.0]()
+
+- ✨: Bổ sung chức năng cho phép đặt lại `tháng/nă`m của các cột `ngay_ttoan`, `thang_qt`, `nam_qt` với các tùy chọn như hình. ![](https://i.imgur.com/kpBF3AV.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/636
+## [v.3.24.0909.1]()
 
 - ✨: Điều chỉnh cách load dữ liệu XML4210; Điều chỉnh cách kiểm tra chi phí giữa XML4210 và XML4750, bổ sung cột [Hồ sơ trùng] của XML4750 ![image](https://github.com/user-attachments/assets/d43adb83-7504-459f-b05f-2a2db1b9e6ab)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/630
