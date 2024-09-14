@@ -5,7 +5,14 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0913.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409130-NasDHSolutions.json)
+## 3.24.0914.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409140-NasDHSolutions.json)
+
+- ✨: Bổ sung xuất Excel 3360 tại form XML4750 theo 4750 và 4210. ![image](https://github.com/user-attachments/assets/0b705eaf-3075-4bef-abbe-b6bec849f7ca)
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/292
+- ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/127
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/95
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/577
+## [v.3.24.0913.0]()
 
 - ✨: Bổ sung trường hợp xuất Excel 3360 người bệnh chỉ có năm sinh.
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/577
