@@ -5,7 +5,14 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0918.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409181-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409181-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409181-NasDHSolutions.json)
+## 3.24.0924.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32409240-NasDHSolutions.json)
+
+- ✨: Bổ sung chức năng cho phép cập nhật chi phí đối với người bệnh có hồ sơ XML130 không hợp lệ (`ma_doituong_kcb = 3.5` mà có chi phí `t_bncct`).
+![image](https://github.com/user-attachments/assets/06ef36ef-31c6-4555-9c13-b46e9d0358e8)
+![image](https://github.com/user-attachments/assets/d4b25887-cc82-4c52-a09e-b973b3fa9e99)
+Lưu ý: dữ liệu hiện tại Bệnh viện cung cấp không đầy đủ thông tin. Nên chạy trên dữ liệu thực tế tại bệnh viện để kiểm chứng.
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/99
+## [v.3.24.0918.1]()
 - 🐛: **💼**: **_CHỨC NĂNG: KIỂM TRA CHI PHÍ GIỮA 4210 VAD QĐ 130 LỖI_**
 - 🐛:![](https://i.imgur.com/BK7ZoSw.png)
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/132
