@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1009.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410091-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410091-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410091-NasDHSolutions.json)
+## 3.24.1009.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410092-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410092-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410092-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - BANT ĐỢT KẾT THÚC KHÔNG CÓ HỒ SƠ KHI XUẤT 4750 _**
+- 🐛: ***Chỉnh lỗi lấy thiếu hồ sơ trên so với báo cáo QĐ130*** ![](https://i.imgur.com/Hwdlwxq.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalprescription/issues/349
+## [v.3.24.1009.1]()
 
 - 🐛: Sửa lỗi `bang2.cach_dung` có chứa thẻ <![CDATA[......]]>. ![image](https://github.com/user-attachments/assets/00c1a449-de0d-41ba-a051-2b5bd5bda7a1)
 - ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/138
