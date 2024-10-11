@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1011.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410110-NasDHSolutions.json)
+## 3.24.1011.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410111-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410111-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410111-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Bổ sung và điều chỉnh chức năng Kiểm tra chi phí so với XML130_**
+- ✨: ***Thay đổi Tiêu đề các chức năng Kiểm tra hồ sơ XML130*** ![](https://i.imgur.com/Z3XkRxv.png) ![](https://i.imgur.com/11FGvDP.png)
+- ✨: Bổ sung chi tiết mô tả chức năng tại: [Mo-ta-he-thong/XML130/QD4570/kiem-tra-4210-130.md](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/kiem-tra-4210-130.md) ![](https://i.imgur.com/KlhYT6o.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/698
+## [v.3.24.1011.0]()
 
 - 🐛: Sửa lỗi `Bảng 3` XML4750 không hiển thị dữ liệu cột `[don_gia_bh]`. ![image](https://github.com/user-attachments/assets/de2c020d-8138-4079-b659-38eec065cb42)
 - ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/139
