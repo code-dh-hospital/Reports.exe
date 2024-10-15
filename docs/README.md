@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1014.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410140-NasDHSolutions.json)
+## 3.24.1015.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410150-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410150-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410150-NasDHSolutions.json)
+
+- 🐛: Sửa lỗi - NGOẠI TRÚ - LƯỢT KHÁM THEO BÁC SĨ THỐNG KÊ THEO GIỜ KHÔNG LOAD SỐ LIỆU. ![](https://i.imgur.com/t8sD0Yj.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/133
+## [v.3.24.1014.0]()
 
 - 🐛: Form XML4750: Sửa lỗi xuất Excel 3360, sai cột tiền t_thuoc và t_vtyt so với mô tả [XML130 - Module Reports xuất XML theo Quyết định 4750 và Mẫu C79 lấy từ dữ liệu XML4750](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20Module%20Reports%20xu%E1%BA%A5t%20XML%20theo%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%204750%20v%C3%A0%20M%E1%BA%ABu%20C79%20l%E1%BA%A5y%20t%E1%BB%AB%20d%E1%BB%AF%20li%E1%BB%87u%20XML4750.md)
 - ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/140
