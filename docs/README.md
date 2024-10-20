@@ -5,7 +5,14 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1017.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410171-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410171-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410171-NasDHSolutions.json)
+## 3.24.1020.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410200-NasDHSolutions.json)
+
+- ✨: Hỗ trợ xuất mẫu 19, 20, 21 từ dữ liệu XML4750. 
+![image](https://github.com/user-attachments/assets/bdc9370c-d4c6-4436-942d-4a5248e5fa46)
+![image](https://github.com/user-attachments/assets/b40188b8-6ff0-47d0-9c35-84e56831bb79)
+![image](https://github.com/user-attachments/assets/9701b84e-cfa5-4503-b848-e87d90550fa0)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/689
+## [v.3.24.1017.1]()
 - ✨: **💼**: **_Lỗi - CHỨC NĂNG KIỂM TRA CẬP NHẬT CHI PHÍ 4210 CẬP NHẬT THIẾU HỒ SƠ NGOẠI TRÚ_**
 - ✨: Chỉnh lỗi khi Đối soát hồ sơ đối Nội trú ![](https://i.imgur.com/YHMXGYD.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/141
