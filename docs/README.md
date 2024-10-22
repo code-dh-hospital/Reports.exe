@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1021.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410211-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410211-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410211-NasDHSolutions.json)
+## 3.24.1022.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FReportsexe%2F32410220-NasDHSolutions.json)
+
+- 🐛: Sửa lỗi: Form xuất XML4750 - XML9 không lấy được thông tin dữ liệu.
+![image](https://github.com/user-attachments/assets/bc345b88-3b3e-419a-87dd-5eed1c6125ee)
+- ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/143
+## [v.3.24.1021.1]()
 - ✨: **💼**: **_Yêu cầu - xuất XML4750 lấy trường MA_KHOA thể hiện mã đơn vị khám cuối đầu tiên_**
 - ✨: Bổ sung MA_KHOA khi xuất XML4750 theo mô tả [XML130/QD4570/Table xml130.bang01 - [Phụ lục - Mô tả XML130 - Bổ sung QĐ 4750].md](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/Table%20xml130.bang01%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750%5D.md) ![](https://i.imgur.com/K4Xe3P5.png) ![](https://i.imgur.com/5XsjI6c.png) ![](https://i.imgur.com/0GAJdas.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/709
