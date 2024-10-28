@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.24.1028.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410281-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410281-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410281-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Form xuất XML4750: Bổ sung chức năng cấu hình xuất `Excel3360` cho các cột: `ngay_sinh`, `ma_lydo_vvien`, `ket_qua_dtri` và `ma_loaikcb`.
+![image](https://github.com/user-attachments/assets/de1ba007-6ab2-4185-8465-0d6635015f22)
+![image](https://github.com/user-attachments/assets/8d47c0e0-0ad4-4fa1-9bad-230cd0f2d978)
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/5
+
 ## [v.3.24.1028.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410280-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410280-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410280-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Form XML4750: Bổ sung chức năng xuất Excel lưới mẫu 19, 20, 21.
