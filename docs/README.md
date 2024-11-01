@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1101.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411010-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411010-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411010-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Form xuất XML4750: Nếu mẫu 19, 20, 21 không có dữ liệu thì khi bấm vào tab để xem thì phần mềm báo lỗi.
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/4
+
 ## [v.3.24.1031.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410310-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410310-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32410310-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Form XML4750, chức năng load dữ liệu C79-HD: Điều chỉnh `Số tiền từ nguồn khác của chi phí thanh toán từ nguồn tập trung như thuốc kháng HIV` của mẫu `C79-HD` cột 16 (thay đổi từ `t_bncct` sang `t_nguonkhac`). Chi tiết theo [Mô tả XML130 - Module Reports xuất XML theo Quyết định 4750 và Mẫu C79 lấy từ dữ liệu XML4750](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20Module%20Reports%20xu%E1%BA%A5t%20XML%20theo%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%204750%20v%C3%A0%20M%E1%BA%ABu%20C79%20l%E1%BA%A5y%20t%E1%BB%AB%20d%E1%BB%AF%20li%E1%BB%87u%20XML4750.md)
