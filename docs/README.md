@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411150-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: form XML130 ==> Xuất mẫu C79-HD thiếu chi phí máu.
+![image](https://github.com/user-attachments/assets/c158b75d-7ba2-4917-955f-b5bcde4d1732)
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/47
+
 ## [v.3.24.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411141-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411141-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: **💼**: **_Lỗi - XML3 không lấy được MA_BENH_YHCT (BV Hồng Ngự)_**
 - 🐛: Chỉnh lỗi thiếu mã YHCT khi xuất XML4750 ![](https://i.imgur.com/QyV1wmb.png)
