@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.24.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411170-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Mẫu 25aCT và 25aTH thống kê dữ liệu bệnh nhân chưa in phiếu (psdangky.dain = 0).
+![image](https://github.com/user-attachments/assets/14c5f137-3977-4286-9d0c-253122d81ac0)
+![image](https://github.com/user-attachments/assets/3c488305-7d55-4f79-b430-02883416c74b)
+![image](https://github.com/user-attachments/assets/3f2f70d2-eb25-41f5-b431-210626217cf0)
+![image](https://github.com/user-attachments/assets/70fee2f1-f593-4087-adfc-249bd00fd179)
+ - ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/40
+
 ## [v.3.24.1115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411150-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: form XML130 ==> Xuất mẫu C79-HD thiếu chi phí máu.
