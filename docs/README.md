@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1118.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411180-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: **Lỗi - XML3 không lấy được MA_BENH_YHCT (BV Hồng Ngự)**
+- 🐛: **Chỉnh lỗi không lấy được MA_BENH_YHCT trên XML03** ![](https://i.imgur.com/EKpNRUo.png)
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/33
+
 ## [v.3.24.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411170-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: Mẫu 25aCT và 25aTH thống kê dữ liệu bệnh nhân chưa in phiếu (psdangky.dain = 0).
@@ -20,6 +25,13 @@
 - 🐛: Sửa lỗi: form XML130 ==> Xuất mẫu C79-HD thiếu chi phí máu.
 ![image](https://github.com/user-attachments/assets/c158b75d-7ba2-4917-955f-b5bcde4d1732)
 - ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/47
+
+## [v.3.24.1114.2]()
+
+- 🐛: **_Lỗi - BN BHYT load qua tiêu chí Không BHYT_**
+- 🐛: Trường hợp hồ sơ đã ghi nhận sai phải dùng chức năng kiểm tra chi phí giữa XML4210 và XML130 mới cập nhật đúng trạng thái của hồ sơ lại.
+- ![](https://i.imgur.com/K9rVM6E.png) ![](https://i.imgur.com/I9txJ9v.png)
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/6
 
 ## [v.3.24.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411141-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411141-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: **💼**: **_Lỗi - XML3 không lấy được MA_BENH_YHCT (BV Hồng Ngự)_**
