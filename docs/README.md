@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411190-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Mẫu C79-HD (dữ liệu XML4750) bản in không lấy được tiền VTYT.
+![image](https://github.com/user-attachments/assets/1a387a0b-c73c-4e5c-ad2b-174f0a479437)
+- ☑: https://github.com/dhhiswork/Loi/issues/3
+
 ## [v.3.24.1118.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411181-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: ***Lỗi - XML03.NGAY_TH_YL lớn hơn XML01.NGAY_RA***
 - ✨: Thực hiện kiểm tra đối với trường hợp tự động thêm NGAY_TH_YL (gây lỗi), những trường hợp XML03.NGAY_TH_YL > XML01.NGAY_RA, sẽ lấy XML03.NGAY_TH_YL = XML03.NGAY_YL ![](https://i.imgur.com/A2mIzkD.png) ![](https://i.imgur.com/JVx4b4C.png)
