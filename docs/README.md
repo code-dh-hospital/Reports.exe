@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Chỉnh lỗi tính sai  MIEN_CUNG_CT đối với thẻ BHYT thứ 2 ![](https://i.imgur.com/CdWCyus.png)
+- 🐛: Những hồ sơ đã thanh toán phải dùng chức năng đối soát hồ sơ đó, để tính lại đúng chi phí
+- ☑: https://github.com/dhhiswork/Loi/issues/24
+
 ## [v.3.24.1122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411220-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật chức năng xuất Excel 3360 dữ liệu XML4750, thay đổi cách tính cột: `t_bntt`.
