@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1126.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411261-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - XML5_4750 load thiếu thông tin thủ thuật (BV Quảng ngãi)
+- 🐛: Chỉnh lỗi lấy thiếu thông tin phẫu thuật, thủ thuật ![](https://i.imgur.com/pki39Uk.png)
+- 🐛: Những dữ liệu XML4750 đã có phải thực hiện đối soát để cập nhật lại XML mới
+- ☑: https://github.com/dhhiswork/Loi/issues/41
+
 ## [v.3.24.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411260-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng phân quyền menu `Xuất dữ liệu QĐ 4210/QĐ-BYT` và `Xuất dữ liệu QĐ 130/QĐ-BYT (Cập nhật theo QĐ 4750/QĐ-BYT)`.
