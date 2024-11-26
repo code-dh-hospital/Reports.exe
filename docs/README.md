@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.24.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411260-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng phân quyền menu `Xuất dữ liệu QĐ 4210/QĐ-BYT` và `Xuất dữ liệu QĐ 130/QĐ-BYT (Cập nhật theo QĐ 4750/QĐ-BYT)`.
+![image](https://github.com/user-attachments/assets/ae04ab94-2970-472f-9ed4-b182d54fcca0)
+![image](https://github.com/user-attachments/assets/163a3932-1e04-4133-9c39-a98b1fd6533b)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/16
+
 ## [v.3.24.1125.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - PK Minh Quang: Hỗ trợ trường hợp thẻ BH của quân đội, công an có mã tỉnh đăng ký thẻ và 2 ký tự đầu mã nơi đăng ký ban đầu khác với 2 ký tự đầu mã BV KCB
 - ✨: Cập nhật chức năng xuất XML4750.MA_DOITUONG_KCB. theo mô tả [ma_doituong_kcb](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb.md) 
