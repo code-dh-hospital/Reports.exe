@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412050-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Mẫu 20 tổng hợp thiếu chi phí thuốc BA ngoại trú quyết toán cuối đợt.
+![image](https://github.com/user-attachments/assets/86f9c29a-7731-4570-a1cf-8a74cda00c89)
+- ☑: https://github.com/dhhiswork/Loi/issues/71
+
 ## [v.3.24.1129.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411293-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411293-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32411293-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Reports XML4210 và XML4750 MA_BENHKHAC VÀ MA_BENH_KT ghi nhận luôn mã bệnh YHCT (PK Đông Tây) ![](https://i.imgur.com/AbsLJUr.png). 
 - 🐛: Lưu ý: Những hồ sơ đã lưu sai phải dùng chức năng đối soát để cập nhật lại.
