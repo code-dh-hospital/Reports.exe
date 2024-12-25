@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.24.1225.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412250-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng xuất dữ liệu XML theo QĐ 3176.
+![image](https://github.com/user-attachments/assets/f8facfdc-035b-447a-9c6a-2f9c87f1fb25)
+![image](https://github.com/user-attachments/assets/c8c6741d-2724-4d1b-ab6d-d0a5bc77f4ba)
+- ☑: https://github.com/dhhiswork/To_lap_trinh/issues/7
+
 ## [v.3.24.1223.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32412232-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix Lỗi - Báo cáo tổng hợp chi phí theo quá trình điều trị (BV Ô Môn) #93
 	- Cập nhật:
