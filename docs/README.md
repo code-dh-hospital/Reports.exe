@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0212.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502121-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Form xuất dữ liệu trẻ sơ sinh (Công văn 4811/BHXH-CNTT):<br/>
+➡️ Bổ sung dữ liệu trẻ có mẹ không thuộc đối tượng BHYT (mẹ không có số BHXH).<br/>
+➡️ Bổ sung cột [MABN_ME].<br/>
+➡️ Bổ sung chức năng lọc dữ liệu (xem ảnh).<br/>
+![](https://i.imgur.com/RBBxp0Y.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/9
+
 ## [v.3.25.0212.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502120-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BC chỉ định cls dịch vụ lệch số lượng giữa danh sách chi tiết và số lượng tổng hợp (BV Ô Môn)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/64
