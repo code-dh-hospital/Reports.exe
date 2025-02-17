@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502170-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi mẫu C79 (Form xuất XML 4750 và XML 3176) hiển thị sai tiền bệnh nhân tự trả và cột chi phí ngoài phạm vi BHYT.
+![](https://i.imgur.com/PDrQHO4.png)
+![](https://i.imgur.com/tbQay9o.png)
+![](https://i.imgur.com/MwpBI0A.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/74
+
 ## [v.3.25.0213.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502130-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi form [Danh sách trẻ sơ sinh (Công văn 4811/BHXH-CNTT)].
