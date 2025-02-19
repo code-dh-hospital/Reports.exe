@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0219.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502190-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung báo cáo Sổ giải phẫu bệnh sinh thiết vào menu [Các loại sổ] => [Sổ xét nghiệm].
+![](https://i.imgur.com/oy7Cebw.png)
+![](https://i.imgur.com/jto0Z2N.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/58
+
 ## [v.3.25.0218.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502180-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Reports: Form xuất dữ liệu XML4750 và XML3176 bổ sung chức năng load dữ liệu theo loại KCB, tách excel 3360 theo dung lượng được cấu hình theo tham số
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/47
