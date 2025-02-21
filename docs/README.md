@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0221.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502211-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - XML4750 bảng 13 trường TEN_DICH_VU (BV Tam Nông) - (dh-issue/LOI/#83)
+- 🐛: ***Bổ sung CDDATA khi xuất XML13.`TEN_DICH_VU`, `QT_BENHLY`,`TEN_THUOC`, `DIA_CHI`,`TOMTAT_KQ`,`DAU_HIEU_LS`*** ![](https://i.imgur.com/yRaFV7F.png) ![](https://i.imgur.com/R4essfP.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/83
+
 ## [v.3.25.0221.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502210-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - XML4 - DON_VI_DO: Đơn vị đo % không hiển thị - (dh-issue/LOI/#76)
 - 🐛: ***Chỉnh lỗi mất XML04.DON_VI_DO, những hồ sơ đã ghi nhận sai phải thực hiện đối soát lại.*** ![](https://i.imgur.com/8JNfwKW.png)
