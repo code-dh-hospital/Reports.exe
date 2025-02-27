@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0227.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502271-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix Lỗi - Report - Hiển thị dư tiền VTYT trong mẫu 21
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/91
+
+![](https://i.imgur.com/DkBbh3z.png)
+![](https://i.imgur.com/LjRp1es.png)
+
 ## [v.3.25.0227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502270-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - XML4750 bảng 13 trường TEN_DICH_VU (BV Tam Nông) - LOI - dh-issue- #83
 - 🐛:  ***Xử lý khi xuất XML4750 và 3176, trường nào có ký tự đặc biệt sẽ tự động thêm CDDATA đáp ứng đúng chuẩn XML.*** ![](https://i.imgur.com/O5V5aEu.png)
