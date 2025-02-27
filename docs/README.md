@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502270-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - XML4750 bảng 13 trường TEN_DICH_VU (BV Tam Nông) - LOI - dh-issue- #83
+- 🐛:  ***Xử lý khi xuất XML4750 và 3176, trường nào có ký tự đặc biệt sẽ tự động thêm CDDATA đáp ứng đúng chuẩn XML.*** ![](https://i.imgur.com/O5V5aEu.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/83
+
 ## [v.3.25.0226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32502260-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - xuất Excel cv 3360 mẫu 79/80 - 19, 20, 21 (BV Ung Bướu) - YEUCAU - dh-issue- #61
 - ✨:  ***Cập nhật chi tiết chi phí theo kho theo mô tả <a href='https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20Module%20Reports%20xu%E1%BA%A5t%20XML%20theo%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%204750%20v%C3%A0%20M%E1%BA%ABu%20C79%20l%E1%BA%A5y%20t%E1%BB%AB%20d%E1%BB%AF%20li%E1%BB%87u%20XML4750.md'>XML130/QD4570/Mô tả XML130 - Module Reports xuất XML theo Quyết định 4750 và Mẫu C79 lấy từ dữ liệu XML4750.md</a>.*** ![](https://i.imgur.com/RGi8YGt.png)
