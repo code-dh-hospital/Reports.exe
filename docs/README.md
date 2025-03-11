@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503110-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Sa Đéc: Không lập được giấy chứng tử theo đề án 06 khi bệnh nhân nhập viện khác tháng tử vong ra viện
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/115
+
+![](https://i.imgur.com/rV6fEzk.png)
+![](https://i.imgur.com/FVoAU5k.png)
+
 ## [v.3.25.0310.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi: Report Báo cáo Tổng hợp-> Danh sách ekipt PT/TT chọn tất cả xem báo lỗi
 ![](https://i.imgur.com/70B6xGp.gif)
