@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.25.0329.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503290-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Thay đổi cách tính `các cột từ 1 đến 10` khi xuất mẫu `C79-HD` dữ liệu `XML4750/XML3176`. Theo mô tả: [XML130/QD4570/Mô tả XML130 - Module Reports xuất XML theo Quyết định 4750 và Mẫu C79 lấy từ dữ liệu XML4750.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20Module%20Reports%20xu%E1%BA%A5t%20XML%20theo%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%204750%20v%C3%A0%20M%E1%BA%ABu%20C79%20l%E1%BA%A5y%20t%E1%BB%AB%20d%E1%BB%AF%20li%E1%BB%87u%20XML4750.md).
+![](https://i.imgur.com/wnDI6ne.png)
+![](https://i.imgur.com/9KCb6FB.png)
+
+➡️ Chọn: `Lấy giá trị theo XML1.T_TONGCHI_BH/XML2.THANH_TIEN_BH/XML3.THANH_TIEN_BH`
+![](https://i.imgur.com/jPcfCNl.png)
+![](https://i.imgur.com/BqFFbbL.png)
+
+➡️ Chọn: `Lấy giá trị theo XML1.T_TONGCHI_BV/XML2.THANH_TIEN_BV/XML3.THANH_TIEN_BV`
+![](https://i.imgur.com/r0QIoGX.png)
+![](https://i.imgur.com/D3Zbn9w.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/139
+
 ## [v.3.25.0328.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503280-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi `Mẫu 21 (tổng hợp)` sai lệnh số liệu.
