@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503310-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Cấp số giấy khám sức khỏe tự động theo đề án 06 (BV Thanh Bình)
+- ✨: Khi click nút chỉnh, đối với trường hợp chưa có số giấy ksk, tiến hành lấy số tiếp theo
+![](https://i.imgur.com/GQUw3Ba.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/83
+
 ## [v.3.25.0330.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503300-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ bổ sung chức năng chuyển tháng/năm quyết toán. Chi tiết theo mô tả [XML130/Cap-nhat-du-lieu-XML130.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Cap-nhat-du-lieu-XML130.md).
