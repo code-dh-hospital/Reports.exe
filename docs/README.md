@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0403.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504030-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Form xuất dữ liệu `XML4750/XML3176`: Sửa lỗi `[Đặt lại] ngay_ttoan`.
+![](https://i.imgur.com/rM6DjQi.png)
+![](https://i.imgur.com/R9haL8d.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/73
+
 ## [v.3.25.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32503310-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Cấp số giấy khám sức khỏe tự động theo đề án 06 (BV Thanh Bình)
 - ✨: Khi click nút chỉnh, đối với trường hợp chưa có số giấy ksk, tiến hành lấy số tiếp theo
