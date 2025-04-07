@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0407.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504070-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Mẫu C79-HD (xuất dữ liệu từ form XML4750/XML3176): Sửa lỗi tính sai cột [15] và cột [18].
+![](https://i.imgur.com/7VrCooZ.png)
+![](https://i.imgur.com/8ActjLs.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/208
+
 ## [v.3.25.0403.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504030-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Form xuất dữ liệu `XML4750/XML3176`: Sửa lỗi `[Đặt lại] ngay_ttoan`.
