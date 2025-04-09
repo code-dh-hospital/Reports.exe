@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0409.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504090-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Form xuất XML4750/XML3176: Sửa lỗi `mã đối tượng 3.5 và 9` xuất hiện `trong chi phí trong phạm vi BHYT`.
+![](https://i.imgur.com/jnZa3ky.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/217
+
 ## [v.3.25.0408.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504082-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi: Report Gửi thông tin ký số Giấy chứng sinh lấy sai mã thủ trưởng đơn vị
 - 🐛: Khi lấy mã thủ trưởng đơn vị bị thiếu số 0 ở đầu mã
