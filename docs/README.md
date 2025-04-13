@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0413.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504130-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Chức năng Đối soát hồ sơ so với XML4210 - Cập nhật hồ sơ XML130 chưa đúng (màu vàng).
+![](https://i.imgur.com/WpduqPQ.png)
+![](https://i.imgur.com/pSVuHw6.png)
+![](https://i.imgur.com/qpnw4nV.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/232
+
 ## [v.3.25.0412.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504121-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Mẫu C79-HD theo XMl4750/XML3176: sửa lỗi bệnh án nội trú ban ngày không xuất hiện trong nhóm B (điều trị nội trú).
