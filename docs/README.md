@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0419.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504190-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi lệch tổng tiền giữa mẫu 79 và mẫu 20, mẫu 21 theo công văn xml130.
+![](https://i.imgur.com/3RQ5haq.png)
+![](https://i.imgur.com/I7i0aid.png)
+![](https://i.imgur.com/NmG5jEK.png)
+![](https://i.imgur.com/S4OyGCm.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/254
+
 ## [v.3.25.0416.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504163-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Report Hỗ trợ cập nhật những tùy chọn có sẵn để người dùng thao tác nhanh chóng các thông tin theo đề án 06
 ![](https://i.imgur.com/8LA3hTZ.png)
