@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0421.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504211-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML 4750, C79, 21 khi bệnh nhân có CLS thanh BHYT có check lấy giá DV.
+![](https://i.imgur.com/MBKgtk5.png)
+![](https://i.imgur.com/XqiI8g0.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/249
+
 ## [v.3.25.0421.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32504210-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Report Hỗ trợ cập nhật những tùy chọn có sẵn để người dùng thao tác nhanh chóng các thông tin theo đề án 06
 - ✨: Bổ sung form chọn bác sĩ kết luận
