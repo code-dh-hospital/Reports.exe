@@ -6,6 +6,36 @@
 
 #
 
+## [v.3.25.0513.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Prescription chức năng nhập viện chuyển toa thuốc tủ trực ngoại trú đã thu (BV Đặng Thùy Trâm) #286
+	- Cập nhật report: hỗ trợ cập nhật lại những hồ sơ bị sai 
+		+ Vào xuất xml 130:
+		![](https://i.imgur.com/GFUw7c8.png)
+
+		+ Đối soát hồ sơ với xml 4210, chạy cập nhật
+		![](https://i.imgur.com/IzEuDKg.png)
+
+		+ Kết quả:
+		![](https://i.imgur.com/k7zs9Fv.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/286
+<<<<<<< HEAD
+
+## [v.3.25.0513.0]()
+- 🐛: Lỗi - Prescription chức năng nhập viện chuyển toa thuốc tủ trực ngoại trú đã thu (BV Đặng Thùy Trâm) #286
+	- Cập nhật report: hỗ trợ cập nhật lại những hồ sơ bị sai 
+		+ Vào xuất xml 130:
+		![](https://i.imgur.com/GFUw7c8.png)
+
+		+ Đối soát hồ sơ với xml 4210, chạy cập nhật
+		![](https://i.imgur.com/IzEuDKg.png)
+
+		+ Kết quả:
+		![](https://i.imgur.com/k7zs9Fv.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/286
+=======
+
 ## [v.3.25.0510.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - BV Ô Môn: XML9 lấy sai thông tin con (lấy dữ liệu con đã xóa) - LOI - dh-issue- #292
 - 🐛:  ***Xử lý XML09 lấy theo trạng thái xoa = 0.*** ![](https://i.imgur.com/dTgBqtG.png)
