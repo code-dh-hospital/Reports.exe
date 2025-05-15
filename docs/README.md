@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505150-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - PK Đông Tây: Reports lỗi chức năng Tổng hợp toa theo bác sĩ
+![](https://i.imgur.com/brJ2pD2.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/289
+
 ## [v.3.25.0513.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505131-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Prescription chức năng nhập viện chuyển toa thuốc tủ trực ngoại trú đã thu (BV Đặng Thùy Trâm) #286
 	- Cập nhật report: hỗ trợ cập nhật lại những hồ sơ bị sai 
