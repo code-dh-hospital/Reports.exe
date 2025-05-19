@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0519.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505191-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu: Thay đổi cách tính stent thứ 2 ở các module (Reports - Admin - Services -Treatment) - YEUCAU - dh-issue- #232
+- ✨:  ***Chỉnh lỗi sai thanh_tien_bh.*** ![](https://live.staticflickr.com/65535/54529635929_a9d30f0a27_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/232
+
 ## [v.3.25.0519.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32505190-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Sổ chẩn đoán hình ảnh: điều chỉnh cột [Ngày thực hiện] thành [Ngày đọc kết quả].
