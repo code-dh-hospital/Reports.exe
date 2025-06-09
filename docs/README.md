@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0609.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - PK Minh Quang: Không chỉnh được thông tin bệnh nhân khám sức khỏe lái xe đã ký số đã gửi hồ sơ
+![](https://i.vgy.me/2elVHS.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/350
+
 ## [v.3.25.0602.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506020-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - gửi giấy khám sức khỏe đề án 06 (BV Thanh Bình)
 ![](https://i.vgy.me/XXp5Xx.png)
