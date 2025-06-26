@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0626.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506260-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Reports: tại form xuất `XML4750/3176` => `bang2.ngay_th_yl = bang2.ngay_yl` (nếu `bang2.ngay_th_yl` rỗng).
+![](https://lh3.googleusercontent.com/pw/AP1GczPTqL0idrCmJyU1rCm-SAB_redi559oW1B5z7sixqVjd2VZL4GkvSAyOTptrtnCHrNP2hdc8J3cKYm_atkQ-UkWkrAoXOIQzBQIn0jkF1TC_ZfwQNOncZHwWE9eEyrtuNVdJE_bCWZwfYCUN-ASKee1=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/144
+
 ## [v.3.25.0614.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32506140-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: PK Phương Nam
