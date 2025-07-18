@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0718.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507180-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - Bổ sung Danh mục địa phương theo Công văn số 1027/CTK-CSCL (gọi tắt Danh mục theo CV 915/CTK-CSCL) - YEUCAU - dh-issue- #346
+- ✨:  ***Bổ sung chức năng sử dụng danh mục 2 cấp trên chức năng Giấy chứng sinh, chỉnh lỗi ký XML bắt mã huyện khi sử dụng địa phương 2 cấp.***
+- ![](https://staging-jubilee.flickr.com/65535/54662512470_2ca2da1037_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/346
+
 ## [v.3.25.0717.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507170-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Reports chức năng xem toa khám bệnh (BV Da liễu)
 ![](https://i.vgy.me/VEZtZl.gif)
