@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0721.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507212-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507212-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507212-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Yêu cầu - Report hỗ trợ xuất Excel bảng 1,2,3 một lần ra 3 bảng cùng 1 file #355
+![](https://lh3.googleusercontent.com/pw/AP1GczO0WCfXOpSNhRzCOxDX0_p93SjFYdfCwkfw_vkxK1WX6kC28itQ57exMYTrVUK9xqAmFNrFvRyUbrlWioUoTxEyW73XiENDYiEqa65TAZna_52F0dUoACOcRiFnu8eec9NaabkLXO3zXw7jlqYs5VJD=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMLpWK_FvYfhyCOL3qTUDz5newBzajhuOOzTH5bQYLjjmE7B3VRj4VRQiPFZ34R2ZhDFqMJHlbW-SuolsvC6rl9y4G-LtVUrnQ3WnexJ4IXrNsLRgvvN53zYV1LU3h8pbNJELAWebYJrH0vUfVU8u2c=w1424-h717-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOKHdUDv6x9k7cPi9zu67NJSJZse9xtOCbxC-1s7q_1c5meZ_oWs0JObOdRKcxU5L0YMjMnjLkC_6OYTDXaPJRbxkfpUiwm3vGGCc_iRnr8e4zvoH7rggZLuamtfabZLTaBZJC0kWoiZ2I_N8sysXVF=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPMfVrzmhQVXs0l9OYYYMk-hA5oeh8qaW_DMlOuyQ6avslzAD-kgQKwxlpB08fyzhWgmJ5LA6VVa1NZIuWRp3xW5fVWiTn0ca-AsvC8xUYcrAkge_-Ph1UmyPYYOPIdOzkuxALp-85EdQLrdZm-CftP=w1424-h732-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/355
+
 ## [v.3.25.0721.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507211-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - XML3 cột Nguoi_thuc_hien load thêm CCHN của Bác sĩ trực (Bác sĩ đọc kết quả) - YEUCAU - dh-issue- #223
 - ✨:  ***Thực hiện XML03.NGUOI_THUC_HIEN theo mô tả [QD4570/XML03.NGUOI_THUC_HIEN.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/XML03.NGUOI_THUC_HIEN.md).*** ![](https://staging-jubilee.flickr.com/65535/54668781689_51c3e753a3_c.jpg)![](https://staging-jubilee.flickr.com/65535/54668868520_e47197ae00_b.jpg) ![](https://staging-jubilee.flickr.com/65535/54668770278_4fd7a8c602_b.jpg)
