@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0721.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507211-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - XML3 cột Nguoi_thuc_hien load thêm CCHN của Bác sĩ trực (Bác sĩ đọc kết quả) - YEUCAU - dh-issue- #223
+- ✨:  ***Thực hiện XML03.NGUOI_THUC_HIEN theo mô tả [QD4570/XML03.NGUOI_THUC_HIEN.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/XML03.NGUOI_THUC_HIEN.md).*** ![](https://staging-jubilee.flickr.com/65535/54668781689_51c3e753a3_c.jpg)![](https://staging-jubilee.flickr.com/65535/54668868520_e47197ae00_b.jpg) ![](https://staging-jubilee.flickr.com/65535/54668770278_4fd7a8c602_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/223
+
 ## [v.3.25.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507210-NasDHSolutions.json)</sup></sup></sub>
 ﻿- 🐛: Lỗi - Reports Mẫu 79 tt102 sai tổng tiền theo nhóm chi phí (BV Lao ST)
 ![](https://i.vgy.me/4rkyy1.png)
