@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507210-NasDHSolutions.json)</sup></sup></sub>
+﻿- 🐛: Lỗi - Reports Mẫu 79 tt102 sai tổng tiền theo nhóm chi phí (BV Lao ST)
+![](https://i.vgy.me/4rkyy1.png)
+![](https://i.vgy.me/etMswn.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/403
+
 ## [v.3.25.0719.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507190-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Bổ sung Danh mục địa phương theo Công văn số 1027/CTK-CSCL (gọi tắt Danh mục theo CV 915/CTK-CSCL) - YEUCAU - dh-issue- #346
 - ✨:  ***Chỉnh thông tin trên các chức năng Báo Tử, Chứng sinh, Khám sức khỏe lấy thông tin theo danh mục địa phương 2 cấp.*** ![](https://staging-jubilee.flickr.com/65535/54664204271_7d06775088_b.jpg)
