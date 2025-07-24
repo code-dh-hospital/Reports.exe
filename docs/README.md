@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Reports Mẫu 79 tt102 sai tổng tiền theo nhóm chi phí (BV Lao ST) 
+- 🐛: Phát sinh lỗi lệch tiền giữa tổng tiền so với chi tiết theo nhóm chi phí
+![](https://i.vgy.me/0VH3x7.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/403
+
 ## [v.3.25.0721.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507212-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507212-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507212-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Yêu cầu - Report hỗ trợ xuất Excel bảng 1,2,3 một lần ra 3 bảng cùng 1 file #355
