@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0731.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507310-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - BV Phụ Sản: Báo cáo lượt đăng ký theo địa phương không thống kê được số liệu - LOI - dh-issue- #425
+- 🐛:  ***Xử lý lấy thông tin báo cáo theo danh mục địa phương 4750.*** ![](https://live.staticflickr.com/65535/54690443524_ddfcc23af4_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/425
+
 ## [v.3.25.0730.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32507301-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Reports - Admin: Chức năng Kiểm tra và cập nhật hồ sơ XML130 lệch số tiền - LOI - dh-issue- #362
 - 🐛:  ***Tính lại Tổng chi đối với 4210 khi so sánh với 130 (Chỉ BHYT).*** ![](https://live.staticflickr.com/65535/54688413261_8c8fa58002_b.jpg)
