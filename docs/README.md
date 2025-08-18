@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0818.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508180-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin - Reports XML1 4750 không lấy được GIAY_CHUYEN_TUYEN đối với BANT thanh toán ngày (BV Cái Răng) - LOI - dh-issue- #434
+- 🐛:  ***Chỉnh lỗi chức năng đối soát hồ sơ.*** ![](https://live.staticflickr.com/65535/54727871046_119d247861_b.jpg) ![](https://live.staticflickr.com/65535/54727870756_ba530a03fe_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/434
+
 ## [v.3.25.0815.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508150-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - REPORT - Báo cáo Tình hình bệnh tật tử vong (Thông tư 37/2019/TT-BYT) - Biểu 14/BCH
 ![](https://i.vgy.me/1e2cDK.gif)
