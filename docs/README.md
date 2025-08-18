@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0818.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508181-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Bổ sung NGAY_TH_YL XML2 theo 4750 và 3762 (BV CLM và Châu thành BT) - YEUCAU - dh-issue- #144
+- ✨:  ***Bổ sung module theo yêu cầu.*** ![](https://live.staticflickr.com/65535/54728447039_1556299f66_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/144
+
 ## [v.3.25.0818.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508180-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Admin - Reports XML1 4750 không lấy được GIAY_CHUYEN_TUYEN đối với BANT thanh toán ngày (BV Cái Răng) - LOI - dh-issue- #434
 - 🐛:  ***Chỉnh lỗi chức năng đối soát hồ sơ.*** ![](https://live.staticflickr.com/65535/54727871046_119d247861_b.jpg) ![](https://live.staticflickr.com/65535/54727870756_ba530a03fe_b.jpg)
