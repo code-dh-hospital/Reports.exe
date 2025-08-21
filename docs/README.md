@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.25.0821.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508210-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Kết nối Medpro PKH dữ liệu SYT Cần Thơ.
+- Cập nhật cấu trúc:
+![](https://lh3.googleusercontent.com/pw/AP1GczNgzZG0rs95pxck5xkue1rI8FdJ7eZgcTEC3O0A_KDsJdKZJMFlWESTJCX002qtzWxQVH-lH_vW7Rah-lH_opFGP_97M37gZ0xWRaa9NVTp1Kl6Yl1VpBIeql9Cd6omBjl1xzgessQZ-r9aOh37YpFI=w719-h157-s-no-gm?authuser=0)
+
+- Cấu hình tham số: Các giá trị này liên hệ Medpro để được cung cấp
+![](https://lh3.googleusercontent.com/pw/AP1GczNY-EpKPQgjQUVEBdS4dyXc6u23JhzVA2svIaRgBTb57zh3nKO1suezsGFAUsv5rP-5MsBPtXfkO2WtDgBvefE5P_xMJgkKLMtWGkiOIGv9-q9HkJuI1YIdrA42YO0YpDni0dj_1Sl8bKBiLs8GiSnU=w1079-h879-s-no-gm?authuser=0)
+
+- Sử dụng:
+![](https://lh3.googleusercontent.com/pw/AP1GczNWIgmcHDoIo1pfPtitw43bFB1fKHmL7RN0G1oNAo0LsPEr7NxgcjRnOfb5_VFXQwhG6tunoGIrPGDa5vhQHJjL0bA2hiQ5la7j2BIwj70HCdbovC8WlY89VrlYIBGxY9krRQjPT6VpQT-rYj8_OvHK=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN8MsN0T7mZER0kLxcxuObWOJeYjb7RyCS1QWd4pVsroWc9fBbTnX-Ok-rFD0eEK0kNU9-WfrNvb86a7mFhVQ6tXVvUNjMHi0kSrrats6L4l8G-gSf_UDk9Aa4BB0cONEfCzBMwIe1jPPI5si5ZmosZ=w1654-h879-s-no-gm?authuser=0)
+
 ## [v.3.25.0820.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508200-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - BV Phụ Sản: Cập nhật danh mục mã đối tượng khám bệnh chữa bệnh theo QĐ 2010/QĐ-BYT - YEUCAU - dh-issue- #376
 - ✨:  ***Cập nhật theo mô tả [ma_doituong_kcb_qd2010.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd2010.md).*** 
