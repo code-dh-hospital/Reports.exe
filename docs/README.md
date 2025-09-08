@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - XML3 VTYT khi xuất có ngày kết quả và mã máy (BV Tam Nông)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/478
+
+- Fix Report cập nhật lại cột XML3.STT sai khi đổ dữ liệu lên Form
+
+![](https://i.vgy.me/WS3Z8y.png)
+
+![](https://i.vgy.me/dzLaJS.png)
+
 ## [v.3.25.0821.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32508210-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Kết nối Medpro PKH dữ liệu SYT Cần Thơ.
