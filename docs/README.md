@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.25.0922.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509221-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Reports: Chức năng khám sức khỏe lái xe ghi nhận sai ngày khám bệnh của bệnh nhân #517
+	- Cập nhật:
+	![](https://i.vgy.me/LuFdnY.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/517
+<<<<<<< HEAD
+
+## [v.3.25.0922.0]()
+- 🐛: Lỗi - Reports: Chức năng khám sức khỏe lái xe ghi nhận sai ngày khám bệnh của bệnh nhân #517
+	- Cập nhật:
+	![](https://i.vgy.me/LuFdnY.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/517
+=======
+
 ## [v.3.25.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - XML3 VTYT khi xuất có ngày kết quả và mã máy (BV Tam Nông)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/478
