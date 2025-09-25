@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Reports: PK Minh Quang: Form Thông tin khám sức khỏe lái thể hiện sai ngày khám, ngày kết luận, ngày khám lại #530
+![](https://i.vgy.me/1t9vLm.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/530
+
 ## [v.3.25.0922.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509221-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Reports: Chức năng khám sức khỏe lái xe ghi nhận sai ngày khám bệnh của bệnh nhân #517
 	- Cập nhật:
