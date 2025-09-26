@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0926.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509261-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu: Xuất XML 4750 hỗ trợ tính lại XML3 cột tiền Bệnh nhân tự trả đối với Stent2 - YEUCAU - dh-issue- #308
+- ✨:  ***Tính tiền theo mô tả.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-sidekick-2025-09-26-13h51p34.351.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/308
+
 ## [v.3.25.0926.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509260-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Reports: PK Minh Quang: Form Thông tin khám sức khỏe lái thể hiện sai ngày khám, ngày kết luận, ngày khám lại #530
 ![](https://i.vgy.me/XyYO7X.png)
