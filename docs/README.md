@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1002.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510020-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung giấy chứng sinh theo Quyết định 2919/QĐ-BYT theo mô tả: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Giay-chung-sinh/Giay-chung-sinh-quyet-dinh-2919.md
+![](https://lh3.googleusercontent.com/pw/AP1GczNm6PqgrUX4uo0-0vtJeNxR5Lhc33f_OD-TWRWx3bCNgFz2Omrlo9wwd-jXHb6PNHNqwjL0AkQy-Bax0aA87i8rkqylSosgtFJJ2byjz8YBC7lgnfjLGVu5nLMugvzeri8ieo08ZZoD0HbVq47qeTH9=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/483
+
 ## [v.3.25.0926.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32509261-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu: Xuất XML 4750 hỗ trợ tính lại XML3 cột tiền Bệnh nhân tự trả đối với Stent2 - YEUCAU - dh-issue- #308
 - ✨:  ***Tính tiền theo mô tả.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-sidekick-2025-09-26-13h51p34.351.png)
