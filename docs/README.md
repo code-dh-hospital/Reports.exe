@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.1002.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510021-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi mất tên người bệnh trên form xuất XML4750/3176.
+Cập nhật cấu trúc:
+![](https://lh3.googleusercontent.com/pw/AP1GczPS2MdTLWxt0v0T3U0xfBbAOvL6KUl6n-Ua_FqQek5V8j-1DxA1DEk982-IBl0t6yrxzZrqdW6Yjvd54vdlTw4LpHET1Zq7syQ1WCyO2E0jlKhLULMX6B3HS1BSUSvWOZWHkWVBic7BUz2H15iCpIn7=w713-h155-s-no-gm?authuser=0)
+Sửa lỗi đặt lại tháng quyết toán:
+![](https://lh3.googleusercontent.com/pw/AP1GczP0b8KbAFn721xRm_nGBIu_8h8pgPaYXEud16H5a9LZWqc1CGUD64L6zBSWiU-xYB8XwMWE2QxGGUODNSfECxDsuuGQl5N4Frw1HPqKd-B1wg3RxNP-r17PAWVjMHvhHeOlzih7EIhArxmyHe_ai3QF=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/539
+
 ## [v.3.25.1002.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510020-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung giấy chứng sinh theo Quyết định 2919/QĐ-BYT theo mô tả: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Giay-chung-sinh/Giay-chung-sinh-quyet-dinh-2919.md
