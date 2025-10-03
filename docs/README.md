@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.1003.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510031-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin: XML1 lấy sai Tiền bảo hiểm thanh toán và tiền bệnh nhân cùng chi trả - LOI - dh-issue- #550
+- 🐛:  ***Chỉnh lỗi tính sai chi phí đồng chi trả khi theo tham số baohiem.tinhvuotmuc=1.***  ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-03-15h13p38.426.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/550
+
+## [v.3.25.1003.0]()
+- 🐛:  Lỗi - Admin: XML1 lấy sai Tiền bảo hiểm thanh toán và tiền bệnh nhân cùng chi trả - LOI - dh-issue- #550
+- 🐛:  ***Chỉnh lỗi tính sai chi phí đồng chi trả khi theo tham số baohiem.tinhvuotmuc=1.***  ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-03-15h13p38.426.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/550
+
 ## [v.3.25.1002.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510021-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi mất tên người bệnh trên form xuất XML4750/3176.
