@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Reports: BV Tâm Thần ĐT: Thống kê thời gian khám bệnh ngoại trú báo lỗi - LOI - dh-issue- #570
+- 🐛:  ***Chỉnh lỗi khi xem dữ liệu.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-13-15h57p13.291.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/570
+
 ## [v.3.25.1010.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510100-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Mẫu số 03 Giấy ra viện - Bổ sung trường dữ liệu xuất excel gửi cổng BH - YEUCAU - dh-issue- #505
 - ✨:  ***Bổ sung các field dữ liệu theo yêu cầu: SO_CCCD	NGAYCAP_CCCD	NOICAP_CCCD	BENHICD10	TENBENHNICD10.***![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-09-08h53p57.527.png)
