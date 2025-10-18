@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1018.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510181-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - Mục quan hệ phần mềm cho chọn chữ Ba - Cha, Mẹ, Má - YEUCAU - dh-issue- #523
+- ✨:  ***Đối với đối tượng Trẻ em xử lý nếu không có chữ Bố, Ba, Cha trong loại quan hệ sẽ đưa Họ tên quan hệ vào thông tin Mẹ.*** ![](https://i.vgy.me/mYOMvZ.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/523#issuecomment-17170
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/505#issuecomment-17167
+
 ## [v.3.25.1018.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510180-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Mẫu số 03 Giấy ra viện - Bổ sung trường dữ liệu xuất excel gửi cổng BH - YEUCAU - dh-issue- #505
 - ✨:  ***Đổi tên field: TENBENHICD10, lấy thêm chẩn đoán phụ.*** ![](https://i.vgy.me/5C7PgJ.png)
