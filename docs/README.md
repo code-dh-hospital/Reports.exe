@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.25.1028.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510280-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Điều chỉnh ngày kết quả trên các sổ kết quả khớp với ngày kết quả của xuất XML4750/XML3176.
+![](https://lh3.googleusercontent.com/pw/AP1GczOa2oYrlGMrT6lxzTnniAgA_wjUsnUvOCOaDTj51LLzwcUwZVexOKn04xYOUswAcDGODsxJgYReVTdnSX1m8ptHl8qdO4kcAiXqCWbx1vaB4WLnD05mv_nkfB2zg2MmYlu7taz9fKNlNRs2swyg_5D_=w1581-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMA-m-3xDmrNC74DBGgab4bZA3Zrafz9RYywtp_o2rNfOqmTTG1J4DxPYn_vtR1U4sQzfKcpD-qbNrH6wiLOSKaLr6ANMxr5vIDaHdmwCRNe-f96n8c_uGCfq3P99n0d15MTJhBnEPlkOQ2b6DOEr3w=w1588-h879-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczMvA6w08ZHlAvFlO55X9cCsnkEXgDVHe900SigD91zK0OgRGD8O3_u9eTtkQkHOckBmKhRD50XpXIWloYDM7uY-10t8vWBMlGGBA7gdE6wdMT0a8gYCTF6OvWUj6ciQaxkoHmiiO6OYyPWN01C1UZXc=w1573-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPG3LsHpnCJWI4mZJYH2ep6kK9KL2L-zCxExNg1LW6vqI4RztuHcdh6MatjcD-Il-9emx-z3YQ6UCxRuC8YJfxLT56s-9w3upAQB4778BN2ppzF8cE9lAMigtoevcpIJDAg4DhjwBHbV8dsr2b7jjZc=w1584-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/68
+
 ## [v.3.25.1024.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510240-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Cập nhật chức năng xuất excel mẫu 07 gửi cổng BHXH báo cáo phiếu nghĩ ốm (BV Thạnh Trị) - YEUCAU - dh-issue- #533
 - ✨:  ***Chỉnh lỗi sai thứ tự `loai_giayto` và `so_cccd`, áp dụng đối với phiếu nghỉ ốm và dưỡng thai*** ![](https://i.vgy.me/FWSn9D.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-24-08h07p51.743.png)
