@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1031.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510310-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Thay đổi cách tính bệnh nhân nội tỉnh, ngoại tỉnh trong các mẫu báo cáo BHYT theo mô tả [BHXH-THONGTUYEN/BHYT/Xac-dinh-the-BHYT-trong-tinh.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/BHYT/Xac-dinh-the-BHYT-trong-tinh.md)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/512
+
 ## [v.3.25.1029.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32510290-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật `ma_doituong_kcb` theo [Quyết định 3276/QĐ-BYT](https://gofile.me/78TQg/twkbxNC6l) và theo mô tả [XML130/QD4570/ma_doituong_kcb_qd3276.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd3276.md) khi xuất dữ liệu XML4750/XML3176.
