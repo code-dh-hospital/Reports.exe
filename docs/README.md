@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1101.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511011-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật lại code theo yêu cầu
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/01/DESKTOP-2FLMTI6-sidekick-2025-11-01-11h21p24.897.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/512
+
 ## [v.3.25.1101.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511010-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Chỉnh lỗi khi XML4210, lấy hồ sơ 1 bệnh nhân theo mã bệnh nhân, nhưng chức năng đối soát lại lấy những hồ sơ khác
 
