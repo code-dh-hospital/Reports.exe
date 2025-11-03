@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511030-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung Xuất file Mẫu 03 (Giấy ra viện) gửi cổng BHXH theo định dạng XLSX
+![](https://lh3.googleusercontent.com/pw/AP1GczPsG8mbcorZnGrbDOZJ4uyV_MwZvRlr8E01ZKi20BpiyWmG8UJ6IdkpaO7knfX5Ipe0Dk-yw3EPxmHrVgOafVDCIRfl2ZI8Hdp9QjGm96TRdUNzcF4LThIcx5_AeUzNp8rxqjdP6gDQLOF5HPWJdl4d=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/550
+
 ## [v.3.25.1101.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511011-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật lại code theo yêu cầu
