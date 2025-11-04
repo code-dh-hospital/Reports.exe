@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1104.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511041-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - XML13: Ten_dich_vu tối đa 4000 ký tự - LOI - dh-issue- #524
+- 🐛:  ***Xử lý lại XML13.TEN_DICH_VU (không lấy tên vật tư).***
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/04/DESKTOP-2FLMTI6-explorer-2025-11-04-15h05p11.457.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/04/DESKTOP-2FLMTI6-explorer-2025-11-04-15h03p50.125.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/524
+
 ## [v.3.25.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511040-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Prescription không ghi nhận phần trăm cùng chi trả khi tổng tiền bảo hiểm lớn hơn 15% mức lương cơ sở - LOI - dh-issue- #606
 - 🐛:  ***Chỉnh lỗi tính sai tiền Miễn cùng chi trả (khi không có check mienchitra, mà lại có ngày miễn chi trả ngaymienct). Xét đồng thời 2 điều kiện, phải có check mienchitra.***
