@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511060-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi xuất các mẫu BHYT theo tham số `rp.matinh`.
+![](https://lh3.googleusercontent.com/pw/AP1GczNDB6J8wgBp1mAM1S2die5mPIsOOH5u_cx09B8MX8GjvrUJ_pCCDw9xWqCJq1DgDrbzPnLjEFI5Bxeow7yU5ZspQNg8PNWmlZG3bH2_hfpJPG4_Uzckslc3uyUjBL8nynlxquOZvxm4WJdAWsguJ73p=w1079-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP_l38joeNjDiMb0BcWzgCIE3b0H0suJ7VUCJeqkttV9UKuCZXAHa4TAQuTt5sV-sMI6dcyp2gle4ya8ppeLGPgbiqn0uDigmJFmqCCvNxxBin7RbzsSkgLfjVFbGGwDQTnVW0EGWfDAk0QprSYWyB0=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/512
+
 ## [v.3.25.1104.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511042-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi `MA_DOITUONG_KCB = 1.3`: psdangky.trangthaichuyentuyen=2 -> mã 1.3 nhưng phần mềm xuất mã khác.
