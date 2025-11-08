@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.1108.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511080-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Hỗ trợ xuất loại giấy tờ theo mô tả [THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md).
+
+![](https://lh3.googleusercontent.com/pw/AP1GczPiQEfWLWLXCfYyTyeNQPPKeXG3XXVzQGv2n9yKUxHkC84Xj1C0GiIXqqfV-1wJ9TqRfEJZ3Tw6DXiYABXl1UysrTj232vniF9mjwdrJPlG4uNZzWo8PV5xi7klHmHrsCOzO5qxAdBdIB04hmXhWjka=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNuV_glY37HY97oKRFJl331AMwBvH_maznlNBe_-WSfCvlVk_EpvMDEmNEhkvs5_PyXM-B9-rZPjd_FW_QyCQy1PFWfd-AE1mywKQ6RTBeMOLE6nMRlrkTVv9pgexWP6d7CDmZ6pUtvJBfQsk7pljrO=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/552
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/522
+
 ## [v.3.25.1106.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511061-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng ghi nhận chẩn đoán sơ bộ theo mô tả [XML130/QD4570/bang1.chan_doan_vao.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/bang1.chan_doan_vao.md) khi xuất XML4750, cột `bang1.chan_doan_vao`:
