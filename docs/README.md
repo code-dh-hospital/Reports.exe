@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511120-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi load dữ liệu sổ xuất viện.
+![](https://lh3.googleusercontent.com/pw/AP1GczP1PKfjo90U0TTo1d_zunbYIEXzwShxGzmxV4pEYA1bxM4aO8ILF-1ybedkYBy1zU9H5avUM2eP4ayIqEF3fDk7E_w1hoNwzDTfPyx1OhJgVIU4lHRXfC5HyVqfxmhrK5B1sQQOy5_sfheRYEw2bioO=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/522
+
 ## [v.3.25.1108.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511080-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ xuất loại giấy tờ theo mô tả [THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md).
