@@ -6,6 +6,30 @@
 
 #
 
+## [v.3.25.1112.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511121-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung thêm yêu cầu này cho các mẫu:
+1. BC tổng hợp ==> Báo cáo khám Ngoại trú ==> Báo cáo tổng hợp
+![](https://lh3.googleusercontent.com/pw/AP1GczPXrXYq9wedHHBO8WfBh0QA1HQjve2tZJY-3X_4pOv69rdnGnLFXJj_QvGx8kXoYl4vtdvbz13JRwcrwhUNzSn3nHIhlaFuricikl18EcNOkXZEMIGb7N_sov1KFuCxQc2gt6l4iK3uFvwKcW5x1zT-=w1654-h879-s-no-gm?authuser=0)
+
+2. BC tổng hợp ==> Báo cáo khám Ngoại trú ==> Báo cáo y vụ
+![](https://lh3.googleusercontent.com/pw/AP1GczMp0iTLemJcsWSYdu4IiPUmLRPXbiM_doWikbXA9l-RHihxFVP0IKpdAgHZdWt-8MMQIwdbuh_yue5BEgE3EslPEELC3OVp3CnG6M77y72NXmTLuG4bUiWO9nb1U7QavI7QA1fygJA77NuMfBbix1YM=w1654-h879-s-no-gm?authuser=0)
+
+3. BC tổng hợp ==> Báo cáo điều trị Nội trú ==> Báo cáo tổng hợp
+![](https://lh3.googleusercontent.com/pw/AP1GczM51OviYrHbj3Br2ypM0O3W7EpLXw1vE1Ju-b7aAonueKVRYIex8GhDrykY20CnT8R17GlKcX5VjDWvZG2NjO4nNxx45Z788Pk1MMSsH2LqPrYU5Og5I2gmWAe-RItGWORqjSuSxeEP9-zRi9pjD1Ih=w1654-h879-s-no-gm?authuser=0)
+
+4. BC Quí - năm ==> Báo cáo khám Ngoại trú ==> BC Tổng hợp
+![](https://lh3.googleusercontent.com/pw/AP1GczNGx6z8FNOnmU9M9h2jARNMYgtFOoFYxcROgrmsxDUpkECpf-KbuRpk1n2bEjOz-XSH9Dq-XaKG6J4Z8WJMI6d3kE7C3PWI0zQKCMOwo9v_8DNr5bh6c6MOiutgH6subggLdFHRk4fMlEWWX02Tvjh6=w1654-h879-s-no-gm?authuser=0)
+
+
+5. BC Quí - năm ==> Báo cáo khám Ngoại trú ==> BC Y vụ
+![](https://lh3.googleusercontent.com/pw/AP1GczPt7QNrUgN8iQ-d8hA7FiXFAnaQv1zeX_cBAekaCcyS5LkZsGuQPPF3eSe-WBGedwEfI2W7PXx7jo2JCEka7bLXJ3KVyYOILTnmxoD7P8QAvUSFkfDkrbeWAsZWCRcxd3iJJGq4GBkO_bPdycRPdqt4=w1654-h879-s-no-gm?authuser=0)
+
+6. BC Quí - năm ==> Báo cáo điều trị Nội trú ==> Báo cáo tổng hợp
+![](https://lh3.googleusercontent.com/pw/AP1GczNfKua5a76nHIDPhSxFd9j-caSno3es1PFsi6DP5gWsl71hC1RmLuyzjfVahsNT57ZcCMCt8EX_DmAymjy2OArvRuLHJKv_N9uVrEQRCj8rOAJBVULtdRlBn13yW884owcq0NiqOGdO3suFLdQZzCQC=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/512
+
 ## [v.3.25.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511120-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi load dữ liệu sổ xuất viện.
