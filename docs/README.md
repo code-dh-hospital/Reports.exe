@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511140-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng gửi dữ liệu MedproPKH.
+![](https://lh3.googleusercontent.com/pw/AP1GczNWIgmcHDoIo1pfPtitw43bFB1fKHmL7RN0G1oNAo0LsPEr7NxgcjRnOfb5_VFXQwhG6tunoGIrPGDa5vhQHJjL0bA2hiQ5la7j2BIwj70HCdbovC8WlY89VrlYIBGxY9krRQjPT6VpQT-rYj8_OvHK=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN8MsN0T7mZER0kLxcxuObWOJeYjb7RyCS1QWd4pVsroWc9fBbTnX-Ok-rFD0eEK0kNU9-WfrNvb86a7mFhVQ6tXVvUNjMHi0kSrrats6L4l8G-gSf_UDk9Aa4BB0cONEfCzBMwIe1jPPI5si5ZmosZ=w1654-h879-s-no-gm?authuser=0)
+
 ## [v.3.25.1113.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511131-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng gửi dữ liệu MedproPKH.
