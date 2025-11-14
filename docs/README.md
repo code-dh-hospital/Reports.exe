@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.25.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511141-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi thống kê báo cáo các mẫu ngoại trú như 79, 25 khi gọp chung với BANT.
+![](https://lh3.googleusercontent.com/pw/AP1GczNP6FMM6n55YxhxCfFJBMfrU2coqOymET_0FlIfbaHaiBAiyTW104fy5RHv-IoXjF945X9kni8LJThPg5fkN8dCmI4_huUH6_aj3WSl_wBwiZCGwW378riUOupJfUSR8yGAnudbbvjRvEXcieZfqlKC=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNyRVSYW39sk4Uyk6iMx6LZib4h0TJThQG_ZK7buxXde8U8iFSv2hFjA0MDbyuqE4lSvC8w_ElkwTThYCInxEY4uLWURCpcaDOgrjJvGa7Bc76jZlnhv7Io2u1XjMHKtk-OdMqlG0GksSLRVPrFBncr=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNaLQPOyO1oX5-aGBKxjGZ9anmLzRfvujeaPwBA63U5OLnbX33pVnhXI0KcuCis33rpfFbcMKrhGLpnXYCm-1pOi3x6B3NOvTPok7pz4AUQX0lbuJtLTMaOsAO4Q6gZrGWG2yiyW1aAdYu4swi9YRNk=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN6QoSKq4CMuKylr6nYXJzvFG2l4HQn0qc5OHKn0SQulvoAUyEFxgKU3kRS8UbJhgttq2Eua3SdiVhx8UQZWJNFJ4tKESZtVNQ5Sg22mWOwC8GiK46ZsBf9Q2PfvAullLOkwDUpv1tfd534c0C5iA0p=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNnKU5OMK7n06vrgI09xqBSxZpwI268twr-Y5ImlW1xkir-7bLPNUNcAiROu5bixcgPBMs8-xLhY8Bk-ziy5apXywazYBTiBT5fo6l_XqccZhXjHICDplD-vsRqP0KG1hpyi42V29VO_tur2Fss31Gj=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/620
+
 ## [v.3.25.1114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511140-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng gửi dữ liệu MedproPKH.
