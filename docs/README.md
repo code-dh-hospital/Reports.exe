@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1120.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511201-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật lại định dạng kiểu ngày giờ khi gửi MedproPKH (theo yêu cầu của Medpro).
+![](https://lh3.googleusercontent.com/pw/AP1GczPE5XKYjnC0boMtYAyWwikerD84rskSxVp0u9nahdkhlLo1X_pi7iy5Pq7cCXuyMt-E1J4AWjm1yjeVakajPW94J0RTldNCWoPIVBFDXQ15zm1vrgX76PnSwI6XVeZKm5ENEAsDaZFRE4uURx4btlLz=w1654-h879-s-no-gm?authuser=0)
+
 ## [v.3.25.1120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511200-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi xuất dữ liệu XML4750 không lấy được ngày kết quả XML3.
