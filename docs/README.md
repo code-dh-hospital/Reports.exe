@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1202.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512020-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi module Reports -> Đối soát hồ sơ XML130 theo QD4210 -> Kiểm tra và cập nhật hồ sơ XML130 load dư những hồ sơ màu vàng.
+![](https://lh3.googleusercontent.com/pw/AP1GczOKABJKq0JPw1D4u2C5SVHZEynTNP2kKCBl9uKU6MbIM8BbVDk5QGWkqynMNB_HknOLLAMzwnhXUtXW2HeKziUaPRQDBjWTvl72arSLdk_-3mGvcBe6FZCn1hK8FWW6KeR9FCUA3rwaGpTfDCbpVCNR=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNt1kRDtG9BWLAbYoimuxG14MUFIk6MVxI-faxcFKWBArV439u6XkZaazqHBxJv4WOwyElxIPVaFAqEvlyCknoGxoJPajgKM1ZUsioNpw30wFxFZvvTpFiy-T4tGMBFu7w52zIol-eKRrDQ_IDV1G4T=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/647
+
 ## [v.3.25.1128.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32511280-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md). Lưu ý: các stent từ thứ 2, 3 và 4 phải cùng mã hàng hóa.
