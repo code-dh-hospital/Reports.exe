@@ -6,6 +6,36 @@
 
 #
 
+## [v.3.25.1216.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512160-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng load dữ liệu và ký số theo Công văn 3220/BHXH-CNTT theo mô tả: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md.
+1. Ký số CV3220: Giấy chứng sinh:
+![](https://lh3.googleusercontent.com/pw/AP1GczMPxp36orzl6j1prXw8I1JEwOlTMAVcb3rigXJrAtzaXOYzAyWHXHlP_k7PR4ONXa67dnFR8Cjb5krh2-iJrIRm9UAxnKqyZkUfMxCzYpLJMpGaj0wSZbK-rLkdicBppIzF4hPAp7aFGWXdLP_Hdlhe=w1654-h879-s-no-gm?authuser=0)
+2. Ký số CV3220: Giấy báo từ:
+![](https://lh3.googleusercontent.com/pw/AP1GczPHeo6zbOe9dVKf2xCiuzZ4HDM-BVPRQ58UsS8rPygxLgmXLAAGg0WpgnxUJCUCK-52M4bVc0aXUZ18yp9MTNitb0T_hty6RINRFAUdwjCdAxGGLsI9IFfxrDBGxo8Q1sVZMVp8bKh0SzkHM_iBBgw6=w1654-h879-s-no-gm?authuser=0)
+3. Ký số CV3220: Giấy ra viện:
+![](https://lh3.googleusercontent.com/pw/AP1GczMiSG9Hmb-6t8Yef8zEzr6RwhRXoMilUHTSQufK2Phw-HU2B-x9QH40bJ7mg7NfZOqPNYSYtSz4mxNt35c4npRwi4VZRXYEypPfOQMq2K1aMqPf1az8VFi8vNaiHpa9waKP_orOkT0mfQjfDG6_1DvN=w1654-h879-s-no-gm?authuser=0)
+4. Ký số CV3220: Bản tóm tắt hồ sơ bệnh án:
+![](https://lh3.googleusercontent.com/pw/AP1GczOEi5RZMQkZ5qnVUBFNsFE6yZP4SsK37bih-tZIQao1NYmWwZcZmLpYiaRERLIh9AWofRLNcU59O24-5Ut2qq6Xj_V1qEyENNW0ie6zh6SuQcQzKfCL8RoaOL11ObIEi9rqOhGEgjdfoIMLWjR5Xdo-=w1654-h879-s-no-gm?authuser=0)
+5. Ký số CV3220: Giấy xác nhận nghỉ dưỡng thai:
+![](https://lh3.googleusercontent.com/pw/AP1GczMVt5TO5DGZB9hAandeGt0afgGZpo4eaLfqFYGwHUf8fegK4aWZk29J9n22XtA6v8WVF0l26eu61YLCgAoiKuXXcF0ddE2eiabMWy6cyFiQ2jVtOUQlg4or7jFYhAJXqpCRcVGJwJkqBSaa9EB4Tvci=w1654-h879-s-no-gm?authuser=0)
+6. Ký số CV3220: Giấy chứng nhận nghỉ việc hưởng BHXH:
+![](https://lh3.googleusercontent.com/pw/AP1GczMKtDfWX1OpkPIJU_AnKxaeelqhqw5lQrGEwIF50Xya9fj70u2SIrWEsnW-HDAXVE6c1IiM2BskkBRMDKw89z_-EqzJwvCfQTGHvCes9NstSOrDHwmws6norQFicuPEM1QFU_xUjODgPLTdXXCOz4UT=w1654-h879-s-no-gm?authuser=0)
+7. Ký số CV3220: Giấy xác nhận quá trình điều trị nội trú:
+![](https://lh3.googleusercontent.com/pw/AP1GczPaToZVKIEL4DzXmbNDEXLQZN3VbqqnaDS8VYD4GHP4Xa84lIDkHZohbUbpGsj6rVazFprvQhs2ii7K9m3OlnmjcByYcIxw80V71mhAVOnnS7etyiR3meANkAhSvxgn9sqRC8gdRzcJVGH7MG9JjEWw=w1654-h879-s-no-gm?authuser=0)
+8. Ký số CV3220: Giấy xác nhận quá trình điều trị vô sinh của lao động nữ:
+![](https://lh3.googleusercontent.com/pw/AP1GczM_eSYs9XOVsLU910bYDr-2yZGiOBvv4ueUI9zRX5i_YQIp0rgSDBbm9R-8DRo2KBTOFphTVvGcXfioz9ZCII65SABdHeE08cAgY7Tk7oGxVJNdQptvgcqIrJqYNFDqaxPhqZI1pU4UjBg_CCCSYFnK=w1654-h879-s-no-gm?authuser=0)
+9. Ký số CV3220: Giấy xác nhận người mẹ không đủ sức khỏe để chăm sóc con:
+![](https://lh3.googleusercontent.com/pw/AP1GczPo1qgChT0YQMoSVIDEVRHnuvwa1R63ySUWG0pB6OkuDHUkVCAO2arzH-zAsBiirrQAC3Noy74zxEANReBaGwqd3ITOkGAn7sjAZzBnqXCSRPxDOn2o-RKfdYk90tx1EO4Nph4GZpV_jhXMBKEFMMJD=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/599
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/600
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/602
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/603
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/604
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/605
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/606
+
 ## [v.3.25.1207.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512070-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
