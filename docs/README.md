@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.25.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512170-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Điều chỉnh theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md)
+1. Giấy ra viện:
+![](https://lh3.googleusercontent.com/pw/AP1GczNTd1lAqk3oGO-ZO2HQEZcVTTZXX7MMMDWXwB4nMfbw5AjCI2sP0jsJU7Gl7iuJURWHqtoyNV8ueMqGdZKpvS6uTKOUvbCvMkaExJKHYEj_XEEOeisiK709EclFiLcMi5o33ndKsoXYo8-r7Eg-yqMB=w1654-h879-s-no-gm?authuser=0)
+2. Bản tóm tắt hồ sơ bệnh án:
+![](https://lh3.googleusercontent.com/pw/AP1GczM2GxC6HstzEHYkrJW4sversdfp96VcvwlOuWWACr7dyMSJs4anyDChVm-2gyl73-iphHvgfRcTB9C4sF_Hg6iWhuL_AJdy_l9CkIEKdQW92Zffr_n2qTdL8zkVT_EzvmCGHFFX4TWu4Iw11W6mnHb6=w1654-h879-s-no-gm?authuser=0)
+3. Giấy chứng nhận nghỉ việc hưởng BHXH:
+![](https://lh3.googleusercontent.com/pw/AP1GczMlYl1jEF_fHbRkSQDk92ssv6vLNR5sGWMdzRJ2TQ5OjRkqOvaN5_5L1V_U7oFeTGKmZbSb1QIC2ESk7p77es-iwvBjV9ns1dZKXCOJbXHXi64vV6R7eK3WIrKzyqLPQBe4cFOd_aSMQTgMnvz77dNh=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/599
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/600
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/603
+
 ## [v.3.25.1216.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512160-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng load dữ liệu và ký số theo Công văn 3220/BHXH-CNTT theo mô tả: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md.
