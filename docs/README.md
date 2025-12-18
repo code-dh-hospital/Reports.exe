@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1218.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512180-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật bổ sung bản tóm tắt hồ sơ bệnh án của bệnh án ngoại trú. 
+![](https://lh3.googleusercontent.com/pw/AP1GczPVjPQLywkmKrdjAKJ6HoLZe0buIHw6G_MBnKMk-GfXYY8-cn8niSL0k7ju2A0Np4GWvg1R7sbzxNR2bgXIc2CTNw1CCbeUjsxntT5KMLGFdL3S5gbg5MBmzMvM-W45nik_bKULccfqNcE5bUHp5auv=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/600
+
 ## [v.3.25.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512170-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Điều chỉnh theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md)
