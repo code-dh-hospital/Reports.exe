@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1219.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512192-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512192-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512192-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bản tóm tắt hồ sơ bệnh án CT04: Bổ sung dữ liệu các cột đối với bệnh án ngoại trú khi xuất dữ liệu CV3220.
+![](https://lh3.googleusercontent.com/pw/AP1GczPFX65cC5pEQfoA9t-5nt9sroNLiwcozwVSTLaREyJXgbWXF9hAEFuIYZcasgzUPwiFx0a5A2LRWELxruu6ciYQhZHj68p1Pcg3OP51SsRNX5_frC4mjSfc2BmQBFk1uJKwBc2J3H1c9hQYigSY4cu-=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNPc9ntQPcbAdIVuF4Z5UheNoIemesd9CJVDo3jkm5c7QVeHkNK_NFa9GpN0SD8q92CR-8W1_-yb9pXs7TZLw43zuiFxpgpO10KMolh79Qxc_2F0axivvxkBDuWf6kr58HtPFGxZEWGM8Oo3Oi9GrrD=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/600
+
 ## [v.3.25.1219.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512191-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Hỗ trợ chức năng bổ sung chỉ số chuẩn đoán hình ảnh đối với XML4
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/585
