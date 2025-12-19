@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1219.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512190-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi bảng 2 thiếu dữ liệu cột ngay_th_yl khi load dữ liệu XML4750.
+![](https://lh3.googleusercontent.com/pw/AP1GczMwa0ycld0fUs6mUUnWPYalunBNekoZzaCoBv9ZboRk5MziJJwI3JWQfrWh94cW0arAm0r1twDzZeYe9IHilYD6TF2Z-j5IVXNcJzARBoJh6mAXFTOpAopc6vR-DSbwlULn8UJGiJT6GNut9YQCM6AP=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/668
+
 ## [v.3.25.1218.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512180-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật bổ sung bản tóm tắt hồ sơ bệnh án của bệnh án ngoại trú. 
