@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1224.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512241-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Form Khám sức khỏe Lái xe đề án 06: Sửa lỗi không tự sinh ra Số Giấy khám và lỗi bấm sang hồ sơ khác thì hồ sơ đang bấm Chỉnh sẽ hiển thị Số giấy khám.
+![](https://lh3.googleusercontent.com/pw/AP1GczMSHEnca9VQhqsFCLoXo0QDPdGH0sHN0bfVa5jUANeVQFZlVY0YBjhi-0wJjvItEIQJLxd7sk1ZT9_fIorCoc1_D7uK8RtqS7Gfav7Oqyt1CNwoHAcKUxVq-h-btrW9VAaUb53TH3_gVgXkQ-XB0PZX=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/672
+
 ## [v.3.25.1224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Form Khám sức khỏe Lái xe đề án 06: Sửa lỗi không tự sinh ra Số Giấy khám và lỗi bấm sang hồ sơ khác thì hồ sơ đang bấm Chỉnh sẽ hiển thị Số giấy khám.
