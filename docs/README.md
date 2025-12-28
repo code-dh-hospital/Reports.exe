@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.1228.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512280-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Bổ sung chức năng cập nhật thông tin bổ sung hồ sơ bệnh án theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNyP4Q6HSGRQCfsWwMBom3WkX_cY-sTN6ZymEEzCfhR8qFQCypi9xoaK8vIG5ixkP3TD5qm0ETri7KepgRywwzKWstG7LmyScBV5KiMUPuKHSEWNg8tpNaifOuycH4HH5OLJSO9NWuIZG-IALwaufj1=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOYlkjXLWlCXOyUnPtY1b762E6zZYyjeetD6TD7WmnQU1BOJIBKbEJxe23GEKmhnvWgseo-wBo-mw_DfrC-B4-Mfp8qHPm-CbD2zWUeK_nfgphfjmOzNQP-OXY4lxJrB-1jIYCYCAjEF8XdDSiDP7E7=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNenMdZ5SL9ASPcVjG1VraopJUjWZ7fndqFnYD2Uyz-M3v_kdtRRw4g9pO-6aJE5LLxremgOuKpiuAZXFZLo3PJDRjbWJFlF3cSm_rlqc0mzZ36_OgdJrcph3DxDi2uX51FOlkmfiFhKCOxFIInQIVr=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/604
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/605
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/606
+
 ## [v.3.25.1225.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512252-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi sai ma_benh_chinh và ma_benh_kt khi xuất XML4750 theo mô tả [XML130/QD4570/Table xml130.bang01 - [Phụ lục - Mô tả XML130 - Bổ sung QĐ 4750].md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/Table%20xml130.bang01%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750%5D.md).
