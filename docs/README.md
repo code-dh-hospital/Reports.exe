@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1229.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512290-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng ký số XML4750/3176 khi xuất dữ liệu XML4750/3176.
+![](https://lh3.googleusercontent.com/pw/AP1GczMQDez9jpufR-KjsoK9f6s7GQWafs_vrQ0ipw0tInchtXKhakjtdtO3O4Kd9HyexlODxXll1tbENfDtIWVr28Q8CEOX2aQiR0BukmVkCb7R835OQ5lwYlQ7fqPiP79nggXv2qSmfXws0nI44-DzOl7G=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOoo1E20sEbBN3mBr3JqAtR-0fN_w5axRLeddj2a9zfN3ZjXc85nNM2tDxwZ8Ysd7p8wZ6Zr9DuI59AE9hQetLUo7_a_inHiH-F6zyI080LFQbWHYdN90SfMlHoN0qpH14F5tFxYks_zXHHNSBQnRzH=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMWgZmbLiI8FElqSj-t1hekzt4hTFHIOvKMv9n_cd4jGdbQ55B_NqeEC-y4nMwBKlqpGyNRIKgay8A7J6eTxooImF7EiE8dJQ1PXM-JSAMP-UH077R34bPFChlZjK9lSe1bSX7933kZvOkXU7vUNmEC=w1864-h850-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/626
+
 ## [v.3.25.1228.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512280-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Bổ sung chức năng cập nhật thông tin bổ sung hồ sơ bệnh án theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md).
