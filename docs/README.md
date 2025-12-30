@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1230.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512301-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi gửi loại hồ sơ 39 đã ký số công văn 3220 theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNbtwpZXQLPyePZmRSTGO5Ugu1MJzJJXP_jDdQ4-Fknn4-dM6UwL7aMz7yX8tlzQ8pnSuhzW9X9Htskq-IkudVuX8DY5qMjxwQQCFJGT6I8X5bJWFwV_oUOi17yLFZxh921Vby_2ItqwJlepwsU09G5=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNCcHVssJEda5WiLaOPE0GQoDDyIkHV2r2nFdqkUseeskpjahf8eVMM1GckYXDDIn7uBQGqEM65uLO8JM8NW9V4CINNzgzh_TWWQdTemj0CY0yxmxp4l0zBAK0tmCSpWKXxfE_Xy7M0gPUIpi7IjpYN=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/674
+
 ## [v.3.25.1230.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512300-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi gửi loại hồ sơ 39 đã ký số công văn 3220 theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md).
