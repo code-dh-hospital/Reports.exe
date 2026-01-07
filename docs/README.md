@@ -6,6 +6,24 @@
 
 #
 
+## [v.3.26.0107.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601071-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment/Reports: Load tự động mã tỉnh cư trú, mã xã cư trú giấy chứng sinh #633
+	- Cập nhật
+
+	![](https://i.vgy.me/cqmRoK.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/633
+<<<<<<< HEAD
+
+## [v.3.26.0107.0]()
+- ✨: Yêu cầu - Treatment/Reports: Load tự động mã tỉnh cư trú, mã xã cư trú giấy chứng sinh #633
+	- Cập nhật
+
+	![](https://i.vgy.me/cqmRoK.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/633
+=======
+
 ## [v.3.25.1230.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512303-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512303-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32512303-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Tích hợp CKS Viettel (Token) với XML thanh toán BHYT. #616
 ![](https://i.vgy.me/5aZ1Vh.png)
