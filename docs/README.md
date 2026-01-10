@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0110.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601100-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung toa thuốc ARV theo mô tả [ARV/Thuoc-ARV-quy-toan-cau.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/ARV/Thuoc-ARV-quy-toan-cau.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczONJ4IdkH3NLQN991ltUp_zt3pa1rGddotGauVcAw1szDZ6fxaZSds_0Kko2w3N9zHC4SoT3YbpUovc1tAKM4tHrB8DyRT2xv1DlcaZfrTCWpoMZEC5aQUJ2TWALSunHYmOhZq0mQlt-cgj-wc57O7J=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPwWjgU5MfqCXeVdrAjrL-IgrISTzl8UkZQYXZpr3k1h3C1KIDAxOyWnn1T6NZPPYriBGVjGZqCQcmFweW3ph0Mbb4MDZNJ4ohaGO_dpcKz187Fs9uII4hjTJ69ke8UMVZFsgOKYqotKg-zvK7t0Ibn=w610-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/595
+
 ## [v.3.26.0107.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment/Reports: Load tự động mã tỉnh cư trú, mã xã cư trú giấy chứng sinh #633
 	- Cập nhật
