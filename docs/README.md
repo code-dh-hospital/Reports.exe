@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Reports xml4750 ghi nhận sai số thứ tự XML5 (BV Ô Môn) - LOI - dh-issue- #692
+- 🐛:  ***Chỉnh lỗi XML05.STT không tăng theo số lượng dữ liệu.*** ![](https://images-worker.tlt49.workers.dev/i/019bbb36-c06f-7812-a219-a9b98587132b)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/692
+
 ## [v.3.26.0114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Cập nhật thư viện Fix lỗi báo cáo lượt khám theo BS, Sổ PT/TT
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/683
