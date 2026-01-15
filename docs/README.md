@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0115.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601151-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng in toa khi toa thuốc có thuốc nghiện/hướng thần.
+![](https://lh3.googleusercontent.com/pw/AP1GczNU7DOItniNXQkDCO6M-Ud6lX4c4W58tcfdbAv_yyJHYkAg5_lQPRjLH8_j6Hirgs1OfxixEhXUHbvO8q2HO90YB3dsVClVnAxiuCmV2zyEvQBPnf34ol8A3aQaTeBiqoxiU8y5dx9lnLB0W2ESs6Uw=w610-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN3acmuJ1TWc-VkAr6g_LiPwqJhnbfg2vx9UncW3UcyAyHUYO3nDytbAniIDtj03qzJuowVBpPZ3FpOIZAHoM7tn_M_FbeO40471S5mMrnUrVP8xkN6GetHrkdXUPOp7BC9XCUP9GFSLkL6CVqi0Wrt=w610-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/595
+
 ## [v.3.26.0115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601150-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Mẫu C79: cập nhật bổ sung theo mô tả [XML130/QD4570/Mô tả XML130 - Module Reports xuất XML theo Quyết định 4750 và Mẫu C79 lấy từ dữ liệu XML4750.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20Module%20Reports%20xu%E1%BA%A5t%20XML%20theo%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%204750%20v%C3%A0%20M%E1%BA%ABu%20C79%20l%E1%BA%A5y%20t%E1%BB%AB%20d%E1%BB%AF%20li%E1%BB%87u%20XML4750.md).
