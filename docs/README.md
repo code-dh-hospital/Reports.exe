@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601150-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Mẫu C79: cập nhật bổ sung theo mô tả [XML130/QD4570/Mô tả XML130 - Module Reports xuất XML theo Quyết định 4750 và Mẫu C79 lấy từ dữ liệu XML4750.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20Module%20Reports%20xu%E1%BA%A5t%20XML%20theo%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%204750%20v%C3%A0%20M%E1%BA%ABu%20C79%20l%E1%BA%A5y%20t%E1%BB%AB%20d%E1%BB%AF%20li%E1%BB%87u%20XML4750.md).
+==> Cột 11: Quỹ BHYT trả tại tỉnh, thành phố
+==> Cột 12: Quỹ BHYT trả tại Trung ương
+![](https://lh3.googleusercontent.com/pw/AP1GczPFaiEbnnGvg7Ue-yGGMfw85w4iCWbMTAuS0J1qqzsuGwFU1Y-YVwUajQ6FmENEOvIZgndHXSk9OmmD4r_P27fVBrcBkfpm_lTFvjOExmWmtYheDtmaP2Ke-LbLKOSGyikTSvU4rM_rQUTF-dVRWMvF=w1113-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPzUaNKL_0uWMoLvLePo8_s7daboM2JoiE1XgpRtmZo5cwkLnm6xbolVNtnUQmt9sFvB60k1HWTW2TK8ipduXh8NIv8SyT0aUM5sSCQp2Tqc8QRggG-DSjovs21PGs5vtrF6hhgC9QQvODOB7vJiQ5G=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/611
+
 ## [v.3.26.0114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Reports xml4750 ghi nhận sai số thứ tự XML5 (BV Ô Môn) - LOI - dh-issue- #692
 - 🐛:  ***Chỉnh lỗi XML05.STT không tăng theo số lượng dữ liệu.*** ![](https://images-worker.tlt49.workers.dev/i/019bbb36-c06f-7812-a219-a9b98587132b)
