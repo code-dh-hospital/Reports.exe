@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601190-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi ký và gửi hồ sơ giấy chứng sinh và lỗi CAP_LAN_DAU bị trống
+![](https://lh3.googleusercontent.com/pw/AP1GczMnlF7nKHcD2HGphdTu411pZragnixKqjqVkuLZ9lVRS2DOJ-XZgW9oGLGNX7i4UPOBclNN2uF0t4AdBXrfpE4DD6bLmoWqE48EvKGziDig2R5owBngi3wQqxbORDLx7WVNfoHFKXruiEJMbOCkmF1P=w1654-h879-s-no-gm?authuser=0)
+
+- 🐛: Giấy ra viện => Tên trưởng khoa bỏ chức danh
+![](https://lh3.googleusercontent.com/pw/AP1GczO4Slek4a6sskIdth1z3ClrNEL6ElfxGTtFEuBoluwRRm5aoG5CVD12juah-rJwGgAswQFee2PJhIdKl4kn1kUNG-Gw55PMCzP2F_XjvlVpjv0w84GNx3SUKZq8YedQeg0HQMAY4h2vbt4l5yz14qPy=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/674
+
 ## [v.3.26.0115.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601151-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng in toa khi toa thuốc có thuốc nghiện/hướng thần.
