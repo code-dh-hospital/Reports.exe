@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601250-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Chức năng nhập thông tin giấy chứng sinh đề án 06 đối tượng thu phí: Đối tượng thu phí không bắt buộc nhập thông tin CCCD.
+![](https://lh3.googleusercontent.com/pw/AP1GczN9KYL4xcXp0YOFCHtMOc9uXUHsWa0bA5wy0xU7chgKA3CjYJyU_9sSMZc0uFUM0UMpPKwDW87BtzPPm2pFsXmXnXgTHDZTnDy7H-mUU1FDPU3z1DUM7ISzl87BqrZVX4zr5sXEDUC_UecgiD4CRp5U=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/627
+
 ## [v.3.26.0119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601190-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi ký và gửi hồ sơ giấy chứng sinh và lỗi CAP_LAN_DAU bị trống
