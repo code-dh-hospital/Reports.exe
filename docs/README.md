@@ -6,6 +6,29 @@
 
 #
 
+## [v.3.26.0127.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601270-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Tổng hợp sửa lỗi chức năng gửi dữ liệu CV3220:
+1. Giấy chứng sinh: bổ sung các trường ràng buộc khi gửi dữ liệu CV3220.
+![](https://lh3.googleusercontent.com/pw/AP1GczPZLY1_VHk354ouMTp4c-4G2irdeYOmK2Qq-5HUjK2UDSru9SngcjqQ1njVWI3DBHgkhK4bYtJSZfUljZNL6BqWmcz37Fv0xTghO-yfWrkSUNIsdsTEDNE8ZUeeZglggKfdLZwof9KpCjtnHWbXziU_=w1654-h879-s-no-gm?authuser=0)
+
+2. Giấy ra viện: Sửa lỗi sai định dạng cột `ngoaitru_tungay` và `ngoaitru_denngay`, bỏ chức danh cột `thu_truong_dv` và `ten_truongkhoa`:
+![](https://lh3.googleusercontent.com/pw/AP1GczO69GNSFtne59kLp722SiXI-ozojKXE6428bUjkd1zg3yAvKkhiPLjv5wLhO5CfSpWcR_ArDl1a_ezr-7JWWZUVpnhykY_JEIriRzsZIyB-1DoCoebSE0TZu-0iBXQ9_BXx25ftX9l75sebd7bi3w-p=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOzBxAYcecFx2c4YldBB9BTi6Hcrjz8eeEERWJGf7EGY8HG2GotWfPn-_MRE1mY6CIlFJyR4fmlM2cxaiOqSR47k-lMwkZvebCR2_TjTuZtPdP0t_eVgne1XP1muYjMek0s6su0HIjlQYDcuHxHRK31=w1654-h879-s-no-gm?authuser=0)
+
+3. Giấy chứng nhận nghỉ việc hưởng BHXH: Sửa lỗi sai định dạng cột `ngay_sinh`, bỏ chức danh cột `thu_truong_dv` và `ten_nguoi_hanh_nghe`: 
+![](https://lh3.googleusercontent.com/pw/AP1GczOCQvrAvkQbrwxQqr769VAmsWm0AZ3YLij7R7HQvd84EXSkj425e5uFmtEvYmpohWP_DgCrwloexU8mc0HihExJu7TCzFhcG_8S5wu3R5ZIDET7jCsaDG6McAxy5LL_rti5i-Ci3iOdMfQgbnyiHFhn=w1654-h879-s-no-gm?authuser=0)
+
+4. Giấy xác nhận điều trị nội trú: bỏ chức danh cột `ten_bs`:
+![](https://lh3.googleusercontent.com/pw/AP1GczNZMiVYvV-QNRV4uocKfxEGXlIdv5PCfy3qiwEgGwzr6DYM_RFvAeDYUZgdPeHiHZZdsTZ9SRo0HKJZ5kwZoSLXH02OeWksnGe6jfKUKoz2vrSsXTHJvHXnaWlv96yNg7hjytSp1XdAt974BrpgUZeC=w1654-h879-s-no-gm?authuser=0)
+
+5. Giấy xác nhận quá trình điều trị vô sinh của lao động nữ: bỏ chức danh cột `ten_bs`:
+![](https://lh3.googleusercontent.com/pw/AP1GczMimWouUVQYYHvdgjDE4NU0LiudSvAr1yTnWRO-vbSMyYsVXHAAHSgZS4641UyytnkatB1Vy-udMKT-dQllTMwviHq6xKYn5vltJVERIOEi1rtiDpMPCRhLYy_Q-Gu1Ag2PCwY3mJkfkz0OGGGro9rx=w1654-h879-s-no-gm?authuser=0)
+
+6. Giấy xác nhận người mẹ không đủ sức khỏe để chăm sóc con: bỏ chức danh cột `ten_bs`: 
+![](https://lh3.googleusercontent.com/pw/AP1GczPuOH9C0bWpTnpepexoLmU33G4bHlup9usd0abUR9qZVnDvyEQrQe1DTZ29OAq9att6gzpL1QpvyYidkiKykLgIukv5jR4FGxhRxv7Tjl5921xiWDxTZY4SNQ4nnbpmGARyHo8hDJiXKzdidPuYpza6=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/674
+
 ## [v.3.26.0125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601250-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Chức năng nhập thông tin giấy chứng sinh đề án 06 đối tượng thu phí: Đối tượng thu phí không bắt buộc nhập thông tin CCCD.
