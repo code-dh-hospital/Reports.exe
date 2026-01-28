@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0128.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601280-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Form đối soát: Bổ sung cột [Đặt lại trạng thái CHƯA gửi BHXH]: Khi thực hiện các chức năng `Cập nhật XML130 Hồ sơ được chọn`, `Cập nhật XML130 Hồ sơ chưa đúng (màu vàng)`, `Cập nhật XML130 Tất cả hồ sơ trên lưới` theo mô tả: [XML130/QD4570/kiem-tra-4210-130.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/kiem-tra-4210-130.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNtz1D4KTQ83X7pi65iyxttDT4hL4VXx80xOhPBtb2bhe4kfULnqJM1HGvVijoDuFfFjtJ-H9PswVVt2XEBux_QkcZtF_y-j2J-hiX5KGgrQNlTHOiS2InHJ_WaEIkDdGwhGRE-ddmhqaEa7niEuFOO=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/659
+
 ## [v.3.26.0127.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32601270-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Tổng hợp sửa lỗi chức năng gửi dữ liệu CV3220:
