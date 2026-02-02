@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0202.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602020-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Ngoại trú-> Xem toa khám bệnh->Theo phòng khám BS.
+![](https://lh3.googleusercontent.com/pw/AP1GczNG3sZDUmLtZ-1k77Q8ylA7RxNUc94QS7ZV_SRv85x41ca1blJ4-EspTnhAE1H5snJ9cjTD2woDmgqn5roWMn2JQ8StbqjxlAdSTeMk8nAaAHC5cv3XQ1DSWeFFc0-uWqWy_9Mr5mx3JT8b0tTtOVBX=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/725
+
 ## [v.3.26.0201.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602010-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
 - ✨:  ***Bổ sung tùy chọn để cấu hình số ngày điều trị mặc định theo mã loại kcb.***
