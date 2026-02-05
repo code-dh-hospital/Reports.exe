@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Xem hoặc in toa thuốc lấy sai thông tin para taikhamngaykhi, thiếu thông tin liều dùng, lỗi tachtoa
+![](https://i.vgy.me/gzJF8t.png)
+![](https://i.vgy.me/rWh9Sd.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/733
+
 ## [v.3.26.0202.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602021-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
 - ✨:  ***Điều chỉnh XML13 theo 3176 (Bỏ: PP_DIEU_TRI, PP_DIEUTRI, MA_NOI_DEN,MA_NOI_DI).***
