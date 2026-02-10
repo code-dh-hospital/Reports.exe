@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0210.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602100-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi mẫu 20 (QĐ 1399) lệch số liệu so với mẫu 20 (CV 3762) tại form xuất dữ liệu XML4750/3176.
+![](https://lh3.googleusercontent.com/pw/AP1GczO-tUS0TTwBB8Sh9-qf6DvSiMzcXmCKDd88CDGjafxRp0L-O8ErQ-Ksz6ZcZGDasZXUgQuNebbzoLonFPDJN9MWfnhChartw_OmNvYkCPW8B4u8LNSaHk-PIqtHgMHb78UIkX-4A22MO9L9iFB0XKnI=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMx8C1JlJMKe1Tbk0itZ2r1ruPZGZngGKdGJtJ484Kb5OuOuzGhuO1TDVBj6_mf2_xYRpP8w1ZuSxwZIM71N3lF2EsR32wkIMyuz5tot009WITWE4_fmP--gmALhg4gPB46JK9kVfFYGCYAv6SLUpo_=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN8esPCfYM4VDsH8UMICnk2HRWMaDuG6rtUTTRVWBJO_LUd7EOhN5o8iHDeCgyLiSL0oxn-97BIrTcjirCAa1myKAZ29c_Pun9_tgcxwXPTJR7xvZcq4LQrs0FQKWYlBweMOAYKPl4HZZEWWMKmX0pX=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/739
+
 ## [v.3.26.0209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Reports Báo cáo cận lâm sàng lọc kho báo lỗi (BV Ô Môn) #740
 	- Cập nhật:
