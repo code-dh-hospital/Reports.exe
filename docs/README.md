@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Xem hoặc in toa thuốc lấy sai thông tin para taikhamngaykhi, thiếu thông tin liều dùng, lỗi tachtoa
+- 🐛: Reports còn lỗi xem toa thuốc theo phòng khám
+- 🐛: Reports lấy sai thông tin dùng thuốc xem toa tổng hợp theo bác sĩ
+- 🐛: Reports In toa thuốc sai thông tin dùng thuốc
+![](https://i.vgy.me/RsVdZl.png)
+![](https://i.vgy.me/DeN3KV.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/733
+
 ## [v.3.26.0210.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602100-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi mẫu 20 (QĐ 1399) lệch số liệu so với mẫu 20 (CV 3762) tại form xuất dữ liệu XML4750/3176.
