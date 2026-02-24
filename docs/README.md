@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi mẫu C79 TT102 hiển thị sai nhóm theo đối tượng
+![](https://lh3.googleusercontent.com/pw/AP1GczNIiZn0yHJf7VRxORqE2Rg6lyblCx_XPbtzl5J7dazmILpxZpaZEZ9307ggShWyZsml2s0rTOfipq6D7aICrAUXI5StL3sOMcePIXhd3iaryB07U2Rw_iWNurRyQhnipgDu6L8IVaKBUmF5iSHcirF2=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMMNEFhmjfGophB7CX1Y1CSf8uOu9GoE_kCuxrpceJWwkUnGLcICBNaAL7-GBqG0_uxh55LtdpYmZqgUXmSGJb6XFADQTAFUp8RWAjho3-YYisaOJzWMMAAsCeC34qmLfR7U5fcUzUSqWedlMmoRnYG=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/747
+
 ## [v.3.26.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602230-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Xem hoặc in toa thuốc lấy sai thông tin para taikhamngaykhi, thiếu thông tin liều dùng, lỗi tachtoa
 - 🐛: Reports còn lỗi xem toa thuốc theo phòng khám
