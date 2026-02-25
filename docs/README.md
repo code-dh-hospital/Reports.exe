@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0225.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602250-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung checkbox tùy chọn gửi hồ sơ XML theo 3220 và sửa lỗi Ký và gửi XML.
+![](https://lh3.googleusercontent.com/pw/AP1GczOkz05IVWhcWx5XICm3Ak9DzhpwGxK-2z8zcbMGGSFHbHv7nf8DUYlQzujy_gtjC_o5k6TPhfisMbKCbnH6FsYoAwTONEHEjYxIFdGrWh-hzI9xzsokRw7-cRJDcuxMMDlP1PG8BblGNzkx3YGOOJ-m=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP4PjsldY1B8XHcYmH4e_NB_Y9eqNG7wlGCeZI-1Oyk5_5FkuNdjzWt1s0fcfBdLX6-wwmUJBBeKYxyb-cXdBOH14eAbozld_npxkAn0keniaLLnS1hHI1XyJHE47QNCmouDKzRYtUqpa35W3nlILau=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP_VZiEo4hyEYFSvhMldolVaLd2tt6Vhr63iSpRvwbLdk5UIe2wxqZAmoQLwyOByvYHLkiFW0VaRO2vtSgk5L6SZXLmha3gl_6x3ZpuAt21Un45_9k1XCZYA2M--HBZfYHRiESLEK5PnmVUJNjiLVrA=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOB_O6bcacc1SU5SsF5FJZ3mJLCD0D0uZeczmZVAqgW2GUkt6kgznMZsYvdnKmhT8diq4iuhvk70Qnqa3Pct_7NHZnXnedRjOgT91CERPsQQG2eXgd9eKIaKAR6tpj_1M2-cIU6KrpIMVqfSmbDvug8=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/691
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/755
+
 ## [v.3.26.0224.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602244-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602244-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602244-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Xem hoặc in toa thuốc lấy sai thông tin para taikhamngaykhi, thiếu thông tin liều dùng, lỗi tachtoa #733
 ![](https://i.vgy.me/qeIFm7.png)
