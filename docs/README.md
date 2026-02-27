@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602270-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Chức năng Xuất excel (dữ liệu) trên lưới.
+![](https://lh3.googleusercontent.com/pw/AP1GczO3vFZpc48Y-f3tCrZbSbZfr6snLRzADhidFm94alqCEHbiVrBEDkZif301x0IWhhrAdNwrNqNyhdHyAdDfQ0FgwHP3OuHG1sH91ji8eMkvbrVaDp84L6GSTphWAadl6XPC6z-LPqSG9HsQcUDYN-Pf=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/763
+
 ## [v.3.26.0225.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32602251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - XML3176: cột MA_BENH_KT và CHAN_DOAN_RV tự động loại bỏ các khoảng trắng dư thừa mã ICD khi có khoản trắng
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/687
