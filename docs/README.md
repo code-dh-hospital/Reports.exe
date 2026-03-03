@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0303.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603032-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML1 cột LY_DO_VV lấy double phần hỏi bệnh của phòng khám đầu tiên.
+![](https://lh3.googleusercontent.com/pw/AP1GczPcPjwQCzeuTG-cPZwrxRX9o0NwkThhCJ3ndBXXhUIzDnoP6mIVjcvfe6InXwU5I0X9BcodAOZzUNRuKO4XlOZ-JG8bHVkizFXfUN1TIz0Q1M2Y7XLR4a_DRkofW2T0uim_AZ26CR0Ut0D7EuX0ByGB=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/761
+
 ## [v.3.26.0303.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603031-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi `Xuất excel CV3131 BC Quí-năm -> Báo cáo điều trị nội trú -> Mẫu 21/BYT`
