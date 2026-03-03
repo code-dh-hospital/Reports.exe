@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0303.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603031-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi `Xuất excel CV3131 BC Quí-năm -> Báo cáo điều trị nội trú -> Mẫu 21/BYT`
+![](https://lh3.googleusercontent.com/pw/AP1GczMyOGV6p6OBf_PrEOWPbweYzfvMJqsvc6Lo7nm9yDhlzMjcBDUIZhE_aAK_TM97NzFM43RgZBEGtZ96fGwLdYFL3DmqsFyBVleB0RA5tUXNmsKLALj_2J2FTfj9-uJW-KT0IUB-J92pYVAOa6S_PiSZ=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNqkCPxCmlD1p28BwElQrNlyZ_Hggn0d-KxdGCzzDCTLNTF2_---mHXv_gb7zO16ly1siyhsPOJHXVJKefLcMtLlJ9dhMNJieBoa_38w1P4rWo0qarsUq_4icmBpMVXrUW2EUyA9mBvJCOAKRidlfzx=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/765
+
 ## [v.3.26.0303.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register,Reports: Thống kê bệnh nhân đăng ký khám bệnh qua KIOS #472
 	- Cập nhật Report: Fix lỗi lệch dữ liệu
