@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0308.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603080-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung Mẫu số 01/BH và Mẫu số 02/BH theo Thông tư 12/2026/TT-BTC.
+![](https://lh3.googleusercontent.com/pw/AP1GczMtWAABmXE21cJcTkhIWOeGHLXiiH-KGc59KbEfIwVSagBz4V0NN0a5n8PxT897gEicHp7TYK65-ZQQpSyfL0V0jgRDgptpbG8XwzRzn5LpcjfUweQsh2EixF81h484scqkkTh7eXR472ZV0L3rrE6T=w1863-h705-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMHABLqGOvLi7DXi0FOORn0E_XpCu48KxGKk9PMKHDHebL5FjvWsR8r_VcAFZbRKi0L_xZXamcVBgsWtRqnssl7xhOan31Zb6yZBk0rdPKOnStVtT16U_8lrcJUdD4ZhfEFffPauGuoC9p6gIoQwy-r=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMYGSfs9PRM0LQSIVs5CfgvdJFAFwxLiCEDV3k8qm36it0J2U-76_X_2ycN0aBNRpD7zFYrxHGbeodC5iuqSjiAQigIDsIpbNQeSV_2lHRw759nwq8Kgi3sT_n262G9CVy4S12JmHiERqJY0HL98qxG=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPhXIO2wdNHxSuOn6Nic6qtedK1RXZduikZZpB2flD6klwXQiO5nL_Fa3qoAmP9kxDKbS_4DJSFSWk6F8TQNID13ZHPl3sgDZFF49CGpWLLHe5OQh1qVrXvu5envylouiwso0PK6zxVmjsI00UmZvi4=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMbEZafwKdwG6tBJ1hhqnMRjurAszP8yFKTCLWy1XQExu8oJNVpctMIe-qQbgj9oqJR8dscbNpGle4yzUw3Gxmy-A2-3fCF0t7A_dyEjhcSfwYm22d9vrW97l_QBxXQPDwcU00jqD-i8T8Ran7Fv7xq=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/123
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/689
+
 ## [v.3.26.0305.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603050-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi file XML xuất 3176 gửi VAS lỗi.
