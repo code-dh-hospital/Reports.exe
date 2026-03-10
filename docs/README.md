@@ -6,6 +6,24 @@
 
 #
 
+## [v.3.26.0310.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603100-NasDHSolutions.json)</sup></sup></sub>
+
+
+- ✨: Bổ sung chức năng xuất Excel Thông tư 12 Mẫu số 01/BH.
+![](https://lh3.googleusercontent.com/pw/AP1GczNiZYUa4_I4sXDLALubEria-054RjezdL_xlPC7GkERLDacodhrbXcZHXRj9uBQuYpAnilInovHozqGghonEvFgdGil6yJaG1Hh2LlSi3V7EvkiepcJ-BhJeqmVlNC8mmLss2spGyJtQSNfku3pHxd4=w1654-h879-s-no-gm?authuser=0)
+
+- ✨: Bổ sung chức năng xuất Excel Thông tư 12 Mẫu số 02/BH.
+![](https://lh3.googleusercontent.com/pw/AP1GczO6BS8fF23rno7TlbHsWet5u6xkWmO9xdaK2WM5pVfWMN3SdSV6Np3BnK-Gv7QiK04HncnO-gxSeSK6vmLPpCjDiCeyWtqCevapzOaqoKTIOFZKjGLO4PJsCN0W28HZaB-IdBV9dmbUDGY8YJQ1hrTv=w1654-h879-s-no-gm?authuser=0)
+
+- ✨: Bổ sung chức năng xuất XML Thông tư 12 Mẫu số 01/BH.
+![](https://lh3.googleusercontent.com/pw/AP1GczMBTb-ulA98IkUmk-tiZZ6sE8aQVXpXiELQ8ZvWFiBXJ_rVTPrYI_DeiczCLHCQCXrI7LhC_p67jyD7FeTFKIn-3ELk3sJZnhNpJSE8NFcAhAAhvrf0O227zMl1i2LtwVBq2XOrtUz9xP54HqAyLYe8=w1654-h879-s-no-gm?authuser=0)
+
+- ✨: Bổ sung chức năng xuất XML (ký số) Thông tư 12 Mẫu số 01/BH.
+![](https://lh3.googleusercontent.com/pw/AP1GczOBwdsjae72x3skWVifwc-Lixy5FNa-E6-B-8O1FHUfni2OlBg4Aedh5qpVWOBWXivpYV70v-iQ_7AlsyWrCGOujzcMTiRs-Je9LQJo2CcS3osqLjV6jYYXGyar4MAVchskm5jBfGt3zqUOcoOSsItn=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/123
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/689
+
 ## [v.3.26.0308.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603080-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung Mẫu số 01/BH và Mẫu số 02/BH theo Thông tư 12/2026/TT-BTC.
