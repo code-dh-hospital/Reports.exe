@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603110-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Form xuất dữ liệu Mẫu số 01/BH, Mẫu số 02/BH không hiển thị 2 số lẻ thập phân ở cột Chi phí KB, CB BHYT.
+![](https://lh3.googleusercontent.com/pw/AP1GczO4UWnh6AymThvEohXgM8Rhq0mdOpXqSK64ONKd4R6_u56l0As3nzuFZJxrtFmqHycGL_vsV4qkzUoI7uTWS4Eo6yOUdRQjfY6OxUOZScEaK-D0tIKE2YzIQ4zsgYFNvM9RTpAO7fBClXH_Gaewdm9U=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczM3fQuGMG0RTrM64uVFkn6rej01I-6E9ByAzBaB26m5u3DuztbzLkGIUUq9ftMg_yNuwJgoJ64kmfce7JvlC1xGhLCYq4-61d9fm_R6M3NOL4-s46S_-xDYpvOs00Jz-SepFWVz3t6cB0eeFe7438eo=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/689
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/123
+
 ## [v.3.26.0310.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603100-NasDHSolutions.json)</sup></sup></sub>
 
 
