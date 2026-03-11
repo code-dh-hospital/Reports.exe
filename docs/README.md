@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0311.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603111-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment/Reports: Bổ sung tham số cấu hình mã thủ trưởng đơn vị load trên form giấy chứng sinh #684
+	- Cập nhật:
+	 
+     ![](https://i.vgy.me/kWFgr0.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/684
+
 ## [v.3.26.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603110-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Form xuất dữ liệu Mẫu số 01/BH, Mẫu số 02/BH không hiển thị 2 số lẻ thập phân ở cột Chi phí KB, CB BHYT.
