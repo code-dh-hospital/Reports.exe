@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0313.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Reports: In phiếu kết quả liên thông KSK lái xe (PK Minh Quang) #701
+	- Cập nhật và fix lỗi trang in:
+
+	![](https://i.vgy.me/II8hXW.gif)
+
+	P/s: trang in có ký số (đang cập nhật)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/701
+
 ## [v.3.26.0312.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment/Reports: Bổ sung tham số cấu hình mã thủ trưởng đơn vị load trên form giấy chứng sinh #684
 	- Cập nhật lấy tham số ma_ttdv nếu tham số ma_ttdv_gcs chưa có:	 
