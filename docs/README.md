@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0318.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Reports: In phiếu kết quả liên thông KSK lái xe (PK Minh Quang) #701
+	- Cập nhật và fix lỗi in đã gửi, mẫu trang in:
+
+	![](https://files.catbox.moe/ip5mvc.gif)
+
+	P/s: @chauthanhtra  test kỹ lại dùm anh hén
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/701
+
 ## [v.3.26.0316.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603160-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Reports: In phiếu kết quả liên thông KSK lái xe (PK Minh Quang) #701
 	- Cập nhật và fix bỏ thông báo và giữ nguyên danh sách được chọn:
