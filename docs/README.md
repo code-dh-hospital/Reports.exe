@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0323.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603230-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+1. Ký Giấy chứng sinh:
+![](https://lh3.googleusercontent.com/pw/AP1GczPEs4Ea4SybU6BHuwsL2QVDT9XrQu7YF-ChILup33zoPAUBit-XyJnBSKdUtsAiX7wc02EpUeJm3KbGqv73qg9M-njnk3PKmV4ofqx7KvftQ_Z7jErmNixQEHRLw3qjoLRYZCKzo5LCmW9o1bAqUKHE=w1654-h879-s-no-gm?authuser=0)
+2. Ký Giấy khám sức khỏe lái xe:
+![](https://lh3.googleusercontent.com/pw/AP1GczOH7ASYRxIOm1fLRMclCr9EYELfnyi51J1idefsvC8iRn2zEzeZPQVrt4OOUgPk4-xgEGy-W2pCTFvqpjNyqISzQhp5o7FAmy1xUTB-NowoPeBspO8k8mG6DintREDEPtg_44-VVXqIUCm7Y_JUBke0=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/788
+
 ## [v.3.26.0319.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603191-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Reports: In phiếu kết quả liên thông KSK lái xe (PK Minh Quang) #701
 	- Rebuild 2
