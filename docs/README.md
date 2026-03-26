@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0326.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603260-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi ký số và gửi hồ sơ giấy chứng sinh.
+1. Ký XML báo thành công, nhưng không hiển thị thông tin ký số:
+![](https://lh3.googleusercontent.com/pw/AP1GczOOzSQyYqGAU04m8BvZRUuQVwMWLVavcSQ8ZhbQcVRfp8G1ftWyNGIdBN8nujKCfWoFCz9sHxRiVq29GcLA9pI-YoaczXF1CK_xCIOMwt-JgF5zlDGN3NjoyxodxH8duNMAtUZAuLRLwURvNuOhBsbV=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPapjww0OF19oK_xVVLhQsXuGPSphRmlxDLkSqu7fefNwyMO5s1Tiapl_0VOOdWqk8hg6O4caTEuQoMOkfjJqdwWHgDXTuQfNw4tSk4LTzJa4oHT1NfRkDpRsJCA2xMCnWlBRZVEgeVdd97JWV01XeV=w1654-h879-s-no-gm?authuser=0)
+2. Không lưu được thông tin khi thao tác chỉnh giấy chứng sinh:
+![](https://lh3.googleusercontent.com/pw/AP1GczOxIjl0brkJcw30UJaJPRgI6aLKKTvwG2yvGSlUlcc38b-X_NwQZbFBOAkmTB_MRsRArv8GmpGmG8r5iprpVchEj1Y9Tpm8Tg7lVIeEvKufGU6AgqQqMDV2fJSkhfeX9wikMZimurHIzxhoU7SAOuHn=w1661-h879-s-no-gm?authuser=0)
+3. Ký và gửi XML CV3220 có ràng buộc trường thông tin không được trống, nút Gửi thì chưa ràng buộc:
+![](https://lh3.googleusercontent.com/pw/AP1GczMcDdueys1GjbtwcWdBISK0gbdTKgJyVcmFQFR-RRoS1fKUXhWN2sH0dLPWi1ZI-v0gpLgW0-VyTWG33pPVVacfi4H-XLq84rCuY3_X6B4E3KQHFe2lCSF6D3LJoiFrNn_0ooXdAcdafihoWflZokcb=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/788
+
 ## [v.3.26.0324.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi ký số giấy khám sức khỏe.
