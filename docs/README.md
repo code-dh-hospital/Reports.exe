@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0327.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603270-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Giấy chứng sinh
+	- Giấy chứng sinh, nút [Ký XML] chưa bắt các thông tin ràng buộc.
+![](https://lh3.googleusercontent.com/pw/AP1GczOvNajFhET8awoT-eM9Lf301edXQuMJWPNoccqXdBLlDD7tFKpt9AsHtW2lNcSrEtwf1ZcJ1vmpzvQGFj1iHAZ7cYZXV4PbihU1rdOChNfxO4-8bfOAjD3AOxqNgg0fzhLRwD7dbkuFrsHwaYQg_Xei=w1654-h879-s-no-gm?authuser=0)
+	- Đăng nhập tài khoản chưa có thông tin tài khoản ký số, nhưng ký XML giấy chứng sinh vẫn báo thành công, thông tin ký số chưa đúng! (TK: Nguyen Thi Loan: ntloan)
+![](https://lh3.googleusercontent.com/pw/AP1GczPJ1EHVrb3gJcTuyf6ft58pn_knRfCPpSqeNHDLVyD5vQbC_rC6ZID2b0MUCspT3mBgcoleDtEN0POlwhjqmw77dQiJKjUSgcwCqVTNeO1Ip6HSdEy_VxxIK-l4CAUpTRLu1_P2hW22rQkjXcjAT0Ob=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/788
+
 ## [v.3.26.0326.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603262-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC
 - Bổ sung Menu trên phân hệ Reports theo thứ tự: Danh Mục (các form danh mục đang thực hiện ở Admin), Tổng hợp chi phí (đang có), Điều chỉnh chi phí (form mới). Xử lý thống nhất tên menu giữa 2 phân hệ: Reports và Admin, tên bám sát với tên mà TT12 qui định.
