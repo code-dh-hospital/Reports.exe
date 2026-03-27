@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0327.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603271-NasDHSolutions.json)</sup></sup></sub>
+
+
+- 🐛: Thay đổi cấu trúc mẫu XML 01/BH theo thông tư 12/2026/TT-BTC. Mẫu mới: [XML130/Thong-tu-12-BTC/MAU_01BH.xml](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/MAU_01BH.xml)
+![](https://lh3.googleusercontent.com/pw/AP1GczORbi6LFEt_tL7CIo564C9rOlF0Osaumhz21CBNMdoIXnRPe455znhRTFQk8nG27msT_Q2DTJR70V6ddk1M5Dj6iZuIGceyc1YKDkmlwWFIV9CqZ4pemchQVNtf2Y4e5GHkAmN0lZBxDPcQ1A4Tw2O0=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPV86Ua1twYpcEgyE7qiVbq14hByuBz9urY30hi6G8i0irhnI1Yow15PtlsMekCCyrj2sebO7GJdOMm8zR78JBM1jbGdTzGmkzw7UqPzzl9w1IoRb1PWU3WbcjCGNatAwICRFyn99_NRamNh1S7wGK3=w1709-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/720
+
 ## [v.3.26.0327.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603270-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Giấy chứng sinh
