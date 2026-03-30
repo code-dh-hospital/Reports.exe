@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0330.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603301-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML3176 ghi nhận sai trường GOI_VTYT so với qui định QĐ 3176.
+![](https://lh3.googleusercontent.com/pw/AP1GczObQW1U_B2Xek1XnDuhY98zYYcjMvYW3KZ8WPQOPTvxsmojX8tyMMVNth33-myKccvvOb6Y7IfDw4vC5GmT0U6iq_Jlu1HjNy2YlefqfvIRGnTSB0MEbp3zO9E2sZqqEQrd6qdQsVuR77skMVASF0Sq=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/798
+
 ## [v.3.26.0330.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603300-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng lọc danh sách các hồ sơ đã gửi CV3220.
