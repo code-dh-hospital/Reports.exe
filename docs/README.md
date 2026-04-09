@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0409.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604090-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa Lỗi - Bản in báo cáo quí mẫu C79 theo TT102 không hiển thị thời gian.
+![](https://lh3.googleusercontent.com/pw/AP1GczNdeSbVDvLiXo_dLFzK6Lq4fnBbucwQWX7EB22YgH02G4Haif0tvM31S6be5viOQQ24avTM7MIxjT80kqvVahdfotynL3_5lAXvpqHepi5wpC3iioEreWZYjvx-0SkjSpSuaQOrYe6n10KMANGs7Cl0=w1663-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMr2BdRJddJXuSWgnfkOYQVKfanDZz6AfiMbyB8SenMigvWqEbwAgbwOcyqigYpe7mIT7Be-fT_xsE1OoVzWVu6Z-W_ffMZvU9yLmXfG-b_W__1YFgmW7OjXslPGwJ6z4WQlgdi5kkLv9nMK1dfwPXu=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/808#issuecomment-25943
+
 ## [v.3.26.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32603310-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật ghi nhận cột XML3.GOI_VTYT theo mô tả [XML130/QD3176/Table xml3176.bang03 - [Phụ lục - Mô tả XML3176].md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/Table%20xml3176.bang03%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML3176%5D.md).
