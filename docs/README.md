@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0414.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604140-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật ghi nhận cột XML3.GOI_VTYT theo mô tả [XML130/QD3176/Table xml3176.bang03 - [Phụ lục - Mô tả XML3176].md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/Table%20xml3176.bang03%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML3176%5D.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNowh1ZSigttw1Vm8QCz1ydqpJkDicIqNfpB_0KBi0tdOWdKVYXeW7y2nmZzJ5lgUofEHx7EOP_UVkEB2er7Rj3xC-j03wkrGCT-3LUPHzk9IrOGreZRB4Ryw8zyBwNpG9nAJlBwVheliH150zQpVOE=w1275-h693-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPFLTCiJi2h6F5iijH5kAm5DvbJ32MyS4VJc7PyAnaW0N6WKKYr-FhxFAq0OYrl5DAHrmxtw1Mg_Aff-PL4xYJCdVWwyIgBW_8t3DvR-tRfB9qewxoHj_rC7hXIVg0mlvMQk488BkjFB0r74GcyLV8c=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOFPozEI-WpMIdjrQHYHfom6ThW4YmA45gcgT8PQc6i3I1W-YLh8TqZn24boKNy6gNkefxghaDoOHBwZu8dXy6ksGfoGFQTVb-shLGy1v_zB3HsLBBacenOyE8ifmJfEeXDFlMFh_EShc1mH-QyaQQE=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOYNIsNFkIr0o27Yn1QCwT-JR7jFv1DcTGySoa1HxOuE4PPDOgikwzC4kYpAcOyNo3pvJJjfEc9z9crRW09WuKJjC_iRzh5FDlP_MFgjuhuUUohRAPuHwa-faSzc31FNS5etLrl_4-XgkDaOoD-9PM6=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/798#issuecomment-25972
+
 ## [v.3.26.0410.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Reports: Xem toa thuốc Parameters sang, trua, chieu, toi chưa load được giá trị #809
 ![](https://i.vgy.me/Az8FtJ.png)
