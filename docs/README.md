@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0416.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604161-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng xuất XML 3176 hiện thị số thứ tự không liên tục.
+![](https://lh3.googleusercontent.com/pw/AP1GczPf8yL7EGmzi7u1u73ZnJGNi5eCeMe8SnPIpkKNJzscCW-N-bSTQqT5Ll-yvaM0oz3YrufEgKobOuDsCfqQo81gjyx6hyn7W8hwviGD2IeK-y0c26pu44w7mppPbEWOwrr5gdJ0_42Dfqo8B2NgSEJj=w1129-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMvht_cARSYTkhdPhHmc5EFkKpFkdSZPMBPvMTvJ-9l9CFsX_-Y8kQj4i_55TCLXUri1vM7RWNHREVmKMqauxAmDzfBEsMiHi234213Zhopq4FbcDz2PCv_7ycyCTnNphnNUxNkGq7nBvIEORetW_Qf=w1129-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOxA7ESvCTjTH-6giiiBQDbZQTfJkpbkEJf2YPxgRTIgsVoMYVhOjJoJnKO-bdy29BlCVnMMiO6swFMmSOj4LZ5t5mSrhPgGzOrgPPQJQQVHtqmUs2xrIbCGXwOw1Y85cyLQN3E-h7pW9I4jwey2JP2=w1129-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNSYk9wejzsPpxMQTVcFIeMGfQ8UcYviiATe86kMZbwr45WDGpWMCsV2FtkNqlqbZ9amQcWuqpC6khp4HgxNT3MqvciS0nePrVj9PQVSFxVFLMk7kS2LNSHvIhpotmTHzQJF4sQMSHeSiPu4JmRfviV=w1129-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/812#issuecomment-26179
+
 ## [v.3.26.0416.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604160-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Goi-VTYT-theo-thang-luong-co-ban.md)
