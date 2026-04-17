@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0417.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604170-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng xuất XML 3176 hiện thị số thứ tự không liên tục.
+![](https://lh3.googleusercontent.com/pw/AP1GczM5vGE8gtwFpEA5w-OJEOD6gTaXVY0SnKVr2pjlsAKuC8zxHwc87QlYxyEHwQ94JK2a-stkgwi2yAu8E9gQfF-laSyLGV4_Kjoa3vuZ2l8AwtDSYJrZkZxPTujVacbNg8idKUpxd0Gs8WfSGKzrf1mz=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOM3wa72_IyjQ2sMk2wU9f_eeNG1sB3FR7Vp0EZ6d1M4plLcfABUC3by7pqUQSIRHXOGTS69d033alGJ3eBFWx58pDoZsAaxmYkhG-WQVnS5jYtpglHWJztKEeJNFNHTLQJMIZQnXx_3QdihV_-zeIK=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOxhmEITUefuxkMb4tQivWrVu4hFhnXuxbFtZq2JykbkRDuOueKZmeeKelXOJ1B_n2UNCcLQi5t5scToYhyzu1iXZvt-UUxGvnN80AOD8CARD0c-0J0QHOozEBQQTiHvgK7cSBjMlP-MZ31rboH0GuD=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczM7-uRW31591VwogF7MbQsOytSEDC8l3yKzDuiAVx5vDokIFK8loNBTtOQhNsGi5moiXJ2a4bjhSnB9v8qPuYufPYklq-uiuf1b-_VCb4NLFZuTmscRJVTdVTj9vbX1e_TY1V_fIhelXdqZ7E1w-PlF=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/812#issuecomment-26263
+
 ## [v.3.26.0416.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604161-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng xuất XML 3176 hiện thị số thứ tự không liên tục.
