@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604230-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi hồ sơ đã gửi, click Ký và gửi XML CV3220 phần mềm báo lỗi
+![](https://lh3.googleusercontent.com/pw/AP1GczNd9nOa1E5nGcBvjozog7O2MhfB5IOo1cRHqh5viW5eP4ktL3k8BL-9o9OKwp-JxKqTpacbpToIe64wXNPaSREP1VK9m2iL0qH41R3GcHwbQuQkcKLuQNzVlaxYaBwYDfcaUYgzdzzGc5fR0avQoF0V=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/822#issuecomment-26525
+
 ## [v.3.26.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604220-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi hồ sơ đã gửi, click Ký và gửi XML CV3220 phần mềm báo lỗi
