@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0423.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604231-NasDHSolutions.json)</sup></sup></sub>
+
+
+- 🐛: Sửa lỗi Chức năng đối soát hồ sơ hiển thị hs màu vàng (do lệch tiền với xml 4210) và chạy cập nhật thì báo lỗi.
+![](https://lh3.googleusercontent.com/pw/AP1GczM5LOT1PD0mB2rHUoQxZJLoESNPQb1j9XpJQSp4LNpUetweqvJY2a5kApeUrCGb0dDcIrfDOThjxRoq3IFrJq3SHQ_oriZnJxK_iRDAuHZ8VLljgi7tJsTt69h7_iu_lIvro2EV58yHgURRWTos6swA=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-26648
+
 ## [v.3.26.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604230-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi hồ sơ đã gửi, click Ký và gửi XML CV3220 phần mềm báo lỗi
