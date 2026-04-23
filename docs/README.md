@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0423.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604233-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi ký số và gửi giấy chứng tử theo công văn 3220.
+![](https://lh3.googleusercontent.com/pw/AP1GczNuTcL3PoVxNqnopw1dzhUye0iiQNSUaLBEmyrjB7OCdfdliYVfsrvXlalu9Z8iDjQGJHqxpend8PcS2qe-H1Ez4GDk6rOutgl8xlRe0_IPaEfaHslBX4brEA01Arc6f-_JeZYHY7OJ6qZuVWjSAw4-=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/822#issuecomment-26813
+
 ## [v.3.26.0423.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604232-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi hồ sơ đã gửi, click Ký và gửi XML CV3220 phần mềm báo lỗi
