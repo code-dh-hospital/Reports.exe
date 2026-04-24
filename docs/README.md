@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0424.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604241-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Reports: Chức năng Khám sức khỏe lái xe đề án 06 cho phép chỉnh lại giới tính
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/737
+
+- Cập nhật lại thông tin tại dmbenhnhan khi có chỉnh thông từ từ Form khám sức khoẻ đề án 06 :
++ holot, ten, gioitinh, diachi, cmnd(CCCD), ngaycap, noicap
+-Ghi nhật ký chỉnh sửa.
+
+![](https://i.vgy.me/gmDiJu.png)
+
+![](https://i.vgy.me/lzP6En.png)
+
 ## [v.3.26.0424.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi lệch tiền tiền BHTT và BNCCT giữa XML và bảng kê 6556.
