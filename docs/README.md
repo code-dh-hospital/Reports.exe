@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0424.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi lệch tiền tiền BHTT và BNCCT giữa XML và bảng kê 6556.
+![](https://lh3.googleusercontent.com/pw/AP1GczP0O8fRJo1VLSVE6I9141u55E1qfxhOOIVo_NOrpkPs8ofLxRTEQvO0W5rCtf1GedX8WV_BKJNXGv3hWHw67_I61gUYoaNq3zbmOstAjF-b1JdAbb72uO821NyTsnUReXgw-ycTRlrNKfLlDJqKT1BV=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-26863
+
 ## [v.3.26.0423.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604233-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi ký số và gửi giấy chứng tử theo công văn 3220.
