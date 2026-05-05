@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Reports chức năng gửi giấy chứng sinh không bắt buộc phải có thông tin cha (BV Thốt Nốt) #743
+	- Cập nhật:
+		- Gửi giấy chứng sinh: cảnh báo khi thiếu thông tin cha (không chặn)
+
+		![](https://i.vgy.me/I8jNtM.gif)
+		![](https://ibb.co/n86cCs9n)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/743
+
 ## [v.3.26.0428.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32604280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Reports: Chức năng Khám sức khỏe lái xe đề án 06 cho phép chỉnh lại giới tính
 - 🐛: Fix thiếu thông tin khi ghi nhật ký chỉnh sửa thông tin khám sức khoẻ đề án 06
