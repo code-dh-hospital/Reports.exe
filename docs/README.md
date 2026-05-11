@@ -6,6 +6,48 @@
 
 #
 
+## [v.3.26.0511.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605112-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Reports: Xem, chỉnh dữ liệu khám sức khỏe lái xe Đã gửi PK Minh Quang #840
+	- Nguyên nhân và fix lỗi Xem, chỉnh dữ liệu khám sức khỏe lái xe Đã gửi
+
+		- Sức khỏe lái xe có 2 hàm: chưa gửi và đã gửi: hàm chưa gửi có bổ sung cột mabn, hàm đã gửi thì chưa
+
+		![](https://i.vgy.me/VJrU4R.png)
+		![](https://i.vgy.me/4EzOeT.png)
+
+		- Bổ sung thông tin vào hàm đã gửi:
+
+		![](https://i.vgy.me/LcSa9H.png)
+
+		- Kết quả kiểm tra:
+
+		![](https://i.vgy.me/odz89K.png)
+		![](https://i.vgy.me/9mfhyy.png)
+		![](https://i.vgy.me/JsnT2G.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/840
+
+## [v.3.26.0511.1]()
+- 🐛: Lỗi - Reports: Xem, chỉnh dữ liệu khám sức khỏe lái xe "Đã gửi" (PK Minh Quang) #840
+	- Nguyên nhân và fix lỗi Xem, chỉnh dữ liệu khám sức khỏe lái xe "Đã gửi"
+
+		- Sức khỏe lái xe có 2 hàm: chưa gửi và đã gửi: hàm chưa gửi có bổ sung cột mabn, hàm đã gửi thì chưa
+
+		![](https://i.vgy.me/VJrU4R.png)
+		![](https://i.vgy.me/4EzOeT.png)
+
+		- Bổ sung thông tin vào hàm đã gửi:
+
+		![](https://i.vgy.me/LcSa9H.png)
+
+		- Kết quả kiểm tra:
+
+		![](https://i.vgy.me/odz89K.png)
+		![](https://i.vgy.me/9mfhyy.png)
+		![](https://i.vgy.me/JsnT2G.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/840
+
 ## [v.3.26.0511.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605110-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix mất ký tự % khi load dữ liệu do Extension mặc định tự xoá ký tự %
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/843
