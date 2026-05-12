@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0512.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605122-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung: Báo cáo Hoạt động thủ thuật phẫu thuật group theo từng khoa
+![](https://lh3.googleusercontent.com/pw/AP1GczPC-qg7JzGhrd8K7RbRLCbfrFK7yThHAwQcnb0GoZHLJ_ymWFtqulGjnCjY13iasbrSl3ZRy4oGeltNUZeQjf4bd1u104FBWQJynEiqZrmbLJfn36MVk5gV2Sg3xCOa0qk2dHpZkA_ZhEnXnyQW4RfM=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/758#issuecomment-27543
+
 ## [v.3.26.0512.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605121-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi xuất file XML Mẫu 01/BH Thông tư 12 sau khi chia file.
