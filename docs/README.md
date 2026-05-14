@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0514.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605142-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi sai tên bệnh nhân mẫu 01/BH TT12 so với XML3176.
+![](https://lh3.googleusercontent.com/pw/AP1GczPyGD2LJ6he9KFBfGU2ZKNRJLPNmTA3XwUuPWlDm3tlyOJSqPQTttsuXdk4SItrQJTH4-BOVStZhqzqX2ZrU5nRCnMKHuwHzdC03bD81kyYOD12v3Gq2rmKwjDHObZtcHgfmNfnzbwj7Vmt3LgkNmXt=w1588-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/851#issuecomment-27749
+
 ## [v.3.26.0514.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605141-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Reports chức năng gửi giấy chứng sinh không bắt buộc phải có thông tin cha (BV Thốt Nốt) #743
 	- Cập nhật:
