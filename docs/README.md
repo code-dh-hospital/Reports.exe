@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605150-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi xuất XML3176 lệch tên bệnh nhân.
+![](https://lh3.googleusercontent.com/pw/AP1GczPNXTgxlN_7ARWqS-nNMLj2e1qKhX121ve1kqoiomMj440__uhydTwfmj_d6Sa8LXGPgIL4Vbkvh4TnJJAB_AMmil91XzwLCINHzSIjdrJGetTrIbN4p4vyoDyq8LwsCE0sVVatKEjf2xCOWVtl5YOR=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/851#issuecomment-27927
+
 ## [v.3.26.0514.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605142-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi sai tên bệnh nhân mẫu 01/BH TT12 so với XML3176.
