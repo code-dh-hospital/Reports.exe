@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0519.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605192-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605192-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605192-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cấu hình `XML01.NGAY_VAO_NOI_TRU` đối với hồ sơ có `XML01.MA_LOAI_KCB = 02`.
+![](https://lh3.googleusercontent.com/pw/AP1GczMvPFIsymuz1Q_pxf-tz2GKYCqVt7Fl_Jxt4W_GSR3nc8wVNR8g6WzmkYUZhD_nnHVEwVjQrBUb2X31RRuOkEsO1AQLJy-i-5nxzRchDzKk6gVVBn2wWf4ECM9DfYEmUbxxh8nn1pAhrPANUe1j-4L4=w1248-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOvRCb6rtiRtmrg2jB6O1k98st-RCOCC4WSz1__TfkpT_CH3fRqudTuVUumE_WjNbnN_waFIkgzr3UxwTkncomQoiaBgx8oZ6R-ySWMevt3iyg3Ymvtar2AlOfWtCD1KFbSgAOv1Rr9XL0Sy26pkRbr=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/855#issuecomment-27975
+
 ## [v.3.26.0519.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605191-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Báo cáo sổ chẩn đoán hình ảnh, sổ xét nghiệm khi in báo lỗi (BV Cái Răng) #859
 ![](https://i.vgy.me/lcduST.png)
