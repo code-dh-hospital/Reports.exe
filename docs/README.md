@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0521.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605210-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi sổ thủ thuật không lấy được thẻ BHYT của bệnh nhân bệnh án ngoại trú thanh toán ngày.
+![](https://lh3.googleusercontent.com/pw/AP1GczM5lSy33ipS21vQrENM638wLgqjRhErO9LhO_XJa1MXAeJGVTIEkFckaL2x_YN1_NZ0hchOUV24JgWGBh2Rpycl5IrgYSZekSVfv26eCdhW6imeL3tQlv7_KHFyFP3RamgOqcWCzr529x532fsVBNbw=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/862#issuecomment-28259
+
 ## [v.3.26.0520.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605200-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi tại chức năng tách file XML Mẫu 01/BH sau khi ký, lỗi: `Ký sai, file gốc có thể đã bị chỉnh sửa`.
