@@ -6,6 +6,40 @@
 
 #
 
+## [v.3.26.0525.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605250-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
+- 🐛: Fix bổ sung khi chọn nhiều dòng để xuất Excel/XML thì luôn thiếu 1 dòng, nếu chỉ chọn 1 dòng thì báo chưa chọn dữ liệu cho Form 1 đến Form 4
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
+- 📕: Cập nhật thư viện bổ sung chức năng xuất XML ký số từ File Excel
+
+Form 1
+
+![](https://i.vgy.me/7jsCwB.png)
+
+Form 2
+
+![](https://i.vgy.me/gzmK2A.png)
+
+Form 3
+
+![](https://i.vgy.me/ILHvxo.png)
+
+Form 4
+
+![](https://i.vgy.me/XLFgXu.png)
+
+Form 5
+
+![](https://i.vgy.me/TGQBWN.png)
+
+Form 6
+
+![](https://i.vgy.me/RLFskC.png)
+
+- Lỗi sai số lượng xuất Excel/XML so với số dòng chọn trên lưới
+
+![](https://i.vgy.me/JnYzxm.png)
+
 ## [v.3.26.0521.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605210-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi sổ thủ thuật không lấy được thẻ BHYT của bệnh nhân bệnh án ngoại trú thanh toán ngày.
