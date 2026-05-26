@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.26.0526.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605263-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605263-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605263-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
+
+- ✨: Yêu cầu - Admin/Reports: Mở rộng mẫu 04/DM trường số lưu hành cho phép lưu đến 50 ký tự
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/781
+
+- 📕: Cập nhật thư viện Fix lỗi Form 3-4-5 và mở rộng cột SO_LUU_HANH Form 4
+
+![](https://i.vgy.me/zuWfPG.png)
+
+![](https://i.vgy.me/IuxedT.png) 
+
+![](https://i.vgy.me/lI8Fc6.png)
+
 ## [v.3.26.0526.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605262-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi XML 3176 tính sai tiền BNTT đối với stent 2.
