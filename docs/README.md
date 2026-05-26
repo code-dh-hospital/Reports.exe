@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0526.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605262-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML 3176 tính sai tiền BNTT đối với stent 2.
+![](https://lh3.googleusercontent.com/pw/AP1GczOuZxAnaRGDirOUhY7gpCmkfuph_ZvRxQhpcY00Vwx5_F-H_Ys62WNkBzitv6kGzbJNHwypQUJblMJTgnP4SxJLTapcQhvTmlgUhQgd_qAp8AKNVBdwN6bgmog6bUIvXp7impu9wzp4ijSS9Qevdyaw=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/869#issuecomment-28419
+
 ## [v.3.26.0526.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605261-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi XML 3176 tính sai tiền BNTT đối với stent 2.
