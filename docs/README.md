@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0526.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung cấu hình mã khoa XML 3 hồ sơ khám nội trú
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/769
+- Cập nhật thư viện xuất/đối soát XML hỗ trợ thay thế mã khoa XML3.MA_KHOA cho công khám thuộc hồ sơ nội trú
+
+![](https://i.vgy.me/CC3mkH.png)
+
 ## [v.3.26.0525.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605250-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
 - 🐛: Fix bổ sung khi chọn nhiều dòng để xuất Excel/XML thì luôn thiếu 1 dòng, nếu chỉ chọn 1 dòng thì báo chưa chọn dữ liệu cho Form 1 đến Form 4
