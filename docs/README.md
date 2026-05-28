@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0528.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605280-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cột `maba` theo báo cáo `Chỉ định CLS - Dịch vụ`:
+1. Điều chỉnh code tại thư viện `HosReg.DataAccess.Adapters.DmBenhNhanAdapter.cs`, bổ sung cột `maba` vào hàm `GetChiDinhCLSCt` phần code `[Theo bệnh nhân]`, chi tiết:
+![](https://lh3.googleusercontent.com/pw/AP1GczNuXU_6rzp78p1L0U5YjzEt8RWjEsxu0Qb22gw2C5J_j1LwCbYHCeCYpVnvYr0_rmCF6DNYoF_6hXSqd5T381ksS-CX0ew16u4PLHouNUsQQdrp0eRDiC8I5QBrPxLfmAhPQCdi5TKMZbeULoh-zFbV=w1817-h653-s-no-gm?authuser=0)
+2. Kết quả:
+![](https://lh3.googleusercontent.com/pw/AP1GczPZx94fGU1iVTkihhiDQIdLSXwh7hIWnenrxgC6Vp8tTIdOt7_zwJi05NgYKg-nVmCSxQyRAqr63-mnqEF7VAQvuhjeqGSFUbZ1BB16PyzE1UY4jxF4g54nPjJN7O8pCagZtMsZWd07zXBVnTQYvM5b=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMlnP-QGyBZ68sG4pmLbfs7-6b0-KIb9U56s07T5ma4XKs77VDnA3jiQLqC1ko8yZcM28TrFOkW-dsF6X5iEECMoHKZANC549Dr72_6GF8RlIynE_615e2pW0h1Fc04hlL8qVPI2pfdNohJ2u5Lq2ZT=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/762#issuecomment-28671
+
 ## [v.3.26.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32605270-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
