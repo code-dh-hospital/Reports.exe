@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0615.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606150-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Mẫu PDF 02/BH báo cáo quí có ký số theo thông tư 12/2026/TT-BTC
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/715
+
+- 🐛: Lỗi - Mẫu in 01/BH, 02/BH không lấy được thời gian lên mẫu in khi chọn Loại BC là BC Quí
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/888
+
+![](https://i.vgy.me/Is4h9b.png)
+
 ## [v.3.26.0603.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606030-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi xuất XML3176 sai TEN_DICH_VU bảng 3.
