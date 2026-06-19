@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0619.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606190-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tích hợp `UserControl`: [PatientFilter](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/code-docs/UserControl-PatientFilter.md) lên các báo cáo theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md).
+1. Lọc mã bệnh nhân/mã liên kết khi xuất dữ liệu XML4750
+![](https://lh3.googleusercontent.com/pw/AP1GczOjBH08PXAEOgyE5iM-pPxEOedueEPVQwTu4un4wjbxobt1A34Erb9O-W8xLHQbIMW1LlLWRzeOzkogKQsuJ4Qi0Ib04NGeNXsGRCpV9Ug5ILQTE0nqrkQo6xGf2KNeyRNhs0f4yMzkq10KZasGxoLW=w1654-h879-s-no-gm?authuser=0)
+2. Lọc mã bệnh nhân/mã liên kết khi xuất dữ liệu XML3176
+![](https://lh3.googleusercontent.com/pw/AP1GczNuy8KjcBt_uIPZ27-3mUz2dOLQDl1jyBxTlOLoXGntB0Ig6Zl5YeeeYtA_Rr0ANthtsCdSyaSpX0WBGtOUd9r2sSZb8F0_0GzaNnEnVCgZeKp6YDJ65Wj2OKlOM7K7-XdgHhh4BaCLwBN7Q25ca1K-=w1654-h879-s-no-gm?authuser=0)
+3. Lọc mã bệnh nhân/mã liên kết khi xuất dữ liệu Mẫu 01/BH và Mẫu 02/BH - Thông tư 12
+![](https://lh3.googleusercontent.com/pw/AP1GczN93l6drafjJWmHggUPcCRvcf_rv1RGqYUIvkaRRVg4EfvVvksVh3GPTkSvA7GQLTPjquNJKejcIQazXW2wgIofjx9RRjkVTlcFA9SRMs5BiVf4yH2_P-ZrWnhEWZiJAPh_HNQwuCqDZlVcRZAXJ0l1=w1578-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/803#issuecomment-29697
+
 ## [v.3.26.0615.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Mẫu PDF 02/BH báo cáo quí có ký số theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/715
