@@ -6,6 +6,31 @@
 
 #
 
+## [v.3.26.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607030-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+1. **Nguyên nhân**: tại thư viện `HosReg.Code.dll` => Class `HosReg.Code.Classes.ClsBaoCao` => Hàm `mcboLoaiBc_ValueChanged(object sender, EventArgs e)` đang ghi nhận thời gian kết thúc luôn lấy **ngày 1** của tháng kết thúc. Ví dụ tháng kết thúc là tháng 6 của quý 2 đang là: `this.cboNgayKT.Value = new DateTime(nam, 6, 1);`, nên kết quả là `01/06/2026`.
+2. **Cách xử lý điều chỉnh**: Tại hàm `mcboLoaiBc_ValueChanged(object sender, EventArgs e)` điều chỉnh lại cách gán giá trị thời gian kết thúc lấy **ngày cuối cùng của tháng**. Ví dụ tháng kết thúc là tháng 6 của quý 2 là: `this.cboNgayKT.Value = new DateTime(nam, 6, DateTime.DaysInMonth(nam, 6));`, thì kết quả sẽ là `30/06/2026`.
+3. Kết quả: các báo cáo thống kê:
+```
+Reports -> Ngoại trú:
+-> Lượt đăng ký theo địa phương
+-> Lượt đăng ký theo giới tính
+-> Lượt khám theo phòng
+-> Lượt khám theo bác sĩ
+-> Phân loại bệnh
+-> Thống kê bệnh theo nhóm
+-> Danh sách nhập viện
+-> Danh sách chuyển viện
+-> Thống kê bệnh - chi tiết
+-> Danh sách bệnh án ngoại trú
+-> Chỉ định CLS - chi tiết
+-> Chỉ định CLS -> Tổng hợp
+```
+![](https://lh3.googleusercontent.com/pw/AP1GczPj1SXmT2RbvQjfXoNKWXT1M5Kt7axRo9U-EHGdRXYY4uio4oCjzF3S1YyprIvpFDlnhsa4Sk5JLKOCT1NLrcyOCYtZo7ntYRWm4y9bBBPTdMflaL4FgSLflF811nlbbQgPHx0o2CFPgsXJmFgaDosC=w1460-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczONRtIMX6c9GouhDUidKAmPCIcg93JcwMckmSYG9Zz8nBXdVi6iRv4zaMPZ94cwDZ6T_7fCP-aGJpoWJg9fZ_S0MHd3bG6jXBflGPpeZhbwxpoh3pWscX3G3V2hsLkdK3pYGtQMlZo49guxCOa3-X1C=w1460-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/904#issuecomment-30228
+
 ## [v.3.26.0619.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32606190-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Tích hợp `UserControl`: [PatientFilter](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/code-docs/UserControl-PatientFilter.md) lên các báo cáo theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md).
