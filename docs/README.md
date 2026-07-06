@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0706.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607060-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+1. Ngoại trú -> Danh sách nhập viện
+![](https://lh3.googleusercontent.com/pw/AP1GczMQqdGf-qNeziYgv25SvvdPGzcwj5OUvyAnUI8a2r-82eGuRt6hl54MxrB3hoY_j7dxhZqWb32meHN89FxZ8cU5g_JasVqvAsi2pass3TOR1Qn9f8CkVEoff9OhQEQk5yWy812IiMbUeDoHUAxIorK1=w1481-h824-s-no-gm?authuser=0)
+2. Ngoại trú -> Danh sách bệnh án ngoại trú
+![](https://lh3.googleusercontent.com/pw/AP1GczMKl6Ot_HI_o3A0qeBrO5dxKDnn2ZIfWPPzFaBGC1eIPe4VvGClgtiXGdtlKFjQhuPfAnKK1gpch69BfHpidIljNuOg55DKnG_5d0tDiW9DnpcdjeIyWI9MB3kSL1mac5blBI_kuSAuj-Ghm9-7eOTE=w1465-h803-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/904#issuecomment-30366
+
 ## [v.3.26.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607030-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi
