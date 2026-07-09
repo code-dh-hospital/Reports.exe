@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0709.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607090-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML 2, 3 hiển thị mức hưởng trên Form chưa đúng (47.5 -> hiển thị =48).
+![](https://lh3.googleusercontent.com/pw/AP1GczMWpz_l6C4NMpoLpIX5LEGAOM3tNeH2DaFZyJVYwVZmp7wFH8MrfEESd5IRFhbJwP6U9ZsmJFnXjLsbaz3YPJAb1ZSGfQu6P_hv5nPBGR1A3Y6ruIgCPpMvhddE0IorS_iHtogoAm6zxu5xo7DSF_r_=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPj_agZK7UJTFGxo9IOzsz3Kew_56kth80QoypUT6MwpOMXIwqd7Ekpc4oMTb3U2AZqXvTOjiz4Te51b4Yuh5jH4EO0nQ0gp0CZVmFKfK9hlF933ZLCcr4p4fLnHxh5VgU3dO1BBxXhxfnZu4MayUJh=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/814#issuecomment-30513
+
 ## [v.3.26.0708.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607080-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng lấy trạng thái trái tuyến theo Nghị định 188/2025/NĐ-CP và tiếp nhận/hiệu chỉnh người bệnh trái tuyến theo mô tả [XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md).
