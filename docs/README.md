@@ -6,6 +6,36 @@
 
 #
 
+## [v.3.26.0710.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607101-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - Báo cáo Phẫu thuật/Thủ thuật bổ sung chi tiết theo ekip #805
+	- Cập nhật: thêm chức năng tùy chọn
+		
+	![](https://i.vgy.me/BNxDZT.gif)
+
+	- Bảng kê:
+
+	![](https://i.vgy.me/2QdWk1.png)	
+	![](https://i.vgy.me/lnJrr5.png)	
+	![](https://i.vgy.me/wBd0S6.png)
+	
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/805
+<<<<<<< HEAD
+
+## [v.3.26.0710.0]()
+- ✨: YÊU CẦU - Báo cáo Phẫu thuật/Thủ thuật bổ sung chi tiết theo ekip #805
+	- Cập nhật: thêm chức năng tùy chọn
+		
+	![](https://i.vgy.me/BNxDZT.gif)
+
+	- Bảng kê:
+
+	![](https://i.vgy.me/2QdWk1.png)	
+	![](https://i.vgy.me/lnJrr5.png)	
+	![](https://i.vgy.me/wBd0S6.png)
+	
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/805
+=======
+
 ## [v.3.26.0709.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607090-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi XML 2, 3 hiển thị mức hưởng trên Form chưa đúng (47.5 -> hiển thị =48).
