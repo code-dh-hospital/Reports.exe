@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Reports: Xem toa Tổng hợp theo bác sĩ phần mềm báo lỗi #921
+![](https://i.vgy.me/PNpFHD.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/921
+- 📕: Nguyên nhân:
+- Do tạo thêm cột để nhận giá trị sáng, trưa, chiều , tối được truyền vào để hiển thị lên form `Xem toa khám bệnh -> Theo phòng khám - Bác sĩ`.
+- form `Xem toa khám bệnh -> Tổng hợp theo bác sĩ` củng sử dụng chung hàm, nhưng chưa truyền sáng, trưa, chiều , tối vào dẫn đến lỗi.
+![](https://i.vgy.me/bGtCNO.png)
+
 ## [v.3.26.0713.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607130-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Sử dụng UserControl `MaMayControl` cho phép chọn nhiều mã máy khi thực hiện CLS/TT/PT. Hỗ trợ xuất XML theo nhiều mã máy.
