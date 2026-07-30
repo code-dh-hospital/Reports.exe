@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0730.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607301-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi ghi nhận tên vật tư y tế không đúng so với danh mục VTYT khi xuất XML3176.
+![](https://lh3.googleusercontent.com/pw/AP1GczN2WVvSYY-yl-zL62HGdqkZNa45We2MNOy3382zIZzic_wYU2x-gQqiyGu2qgFKi75m6orLgwY6zlWQT5bKl_WvAokaitSsn4XPMQcjWoYSNn5LeOUE9r-9oj5Z1bKNm0LptDHBJkLCzVVOwCfaQJ_u=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOXWsQzfe2-8oQ9DG811y75vBcCg1lKbcuWDGdejR4l3H0_Pj3R_mE26t58kPCRbtQUJRMn7B7NLTdlRnjpiwg5PpNW3yHZq9Jgn7_z6nwwhbVOYh5wWl0sIViPFml7kVttukETx0Ug1J4hApcNK0Vj=w1046-h497-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/933#issuecomment-31585
+
 ## [v.3.26.0730.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607300-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi load dữ liệu sổ phẫu thuật, thủ thuật khi tham số `rp.so_tt_pt = 1`.
