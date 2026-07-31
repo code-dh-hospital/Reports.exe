@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0731.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607310-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Admin: Thông tư 12 lỗi không thêm được dữ liệu từ danh mục
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/940
+- 📕: Sai logic khi kiểm tra trường hợp chọn dòng đang chọn hoặc chọn theo danh sách gây ra lỗi
+- 📕: Cập nhật thư viện fix lỗi không chọn được từ danh mục
+
+![](https://i.vgy.me/ilgBrk.gif)
+
 ## [v.3.26.0730.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32607301-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi ghi nhận tên vật tư y tế không đúng so với danh mục VTYT khi xuất XML3176.
