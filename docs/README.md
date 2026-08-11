@@ -6,6 +6,26 @@
 
 #
 
+## [v.3.26.0811.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608111-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - Admin, Reports thêm dữ liệu vào 6 bảng danh mục theo thông tư 12 (BV QDY) #951
+
+	Fix lỗi 6 danh mục Thông tư 12
+
+	![](https://i.vgy.me/FAnRLZ.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/951
+<<<<<<< HEAD
+
+## [v.3.26.0811.0]()
+- ✨: Lỗi - Admin, Reports thêm dữ liệu vào 6 bảng danh mục theo thông tư 12 (BV QDY) #951
+
+	Fix lỗi 6 danh mục Thông tư 12
+
+	![](https://i.vgy.me/FAnRLZ.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/951
+=======
+
 ## [v.3.26.0810.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608101-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi XML4750/XML3175 `bang3.NGAY_KQ` lấy sai giờ trả kết quả.
