@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0820.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608200-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - XML3176 BANT đợt lấy mã bệnh kèm theo cấu hình lấy chẩn đoán ra viện
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/885
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/BO_SUNG_OPTION_BHXH_LAY_CHAN_DOAN_BANT_DOT.md
+- 📕: Cập nhật thư viện : Bổ sung option lấy chẩn đoán kèm theo và chẩn đoán ra viện khi xuất XML và xử lý theo option khi xuất XML1
+
+![](https://i.vgy.me/nf5TEP.png)
+
 ## [v.3.26.0819.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32608190-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng load dữ liệu `XML4750/XML3176` `bang1.ngay_vao_noi_tru` theo `bang1.ma_loai_kcb là 05 hoặc 08` theo mô tả: [XML130/QD3176/bang1.ngay_vao_noi_tru.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/bang1.ngay_vao_noi_tru.md).
