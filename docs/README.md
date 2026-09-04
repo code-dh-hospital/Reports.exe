@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0904.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609040-NasDHSolutions.json)</sup></sup></sub>
+﻿- 🐛: [Reports & DataHelper, Statistics.Books] Sửa lỗi hiển thị ngày giờ cột Tử vong trên Sổ tử vong (lấy nhầm giờ ra viện) và Sổ Vào viện - Ra viện - Chuyển viện (bị trống dữ liệu khi bệnh nhân tử vong ravien = 3).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/989
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/18
+- 📗: Đọc dữ liệu thời điểm tử vong từ current.bnnoitru.ngaytv qua COALESCE(nt.ngaytv, nt.ngaygiotv) AS ngaygiotv trong DataHelper.Books.SoAdapter.
+- 📕: Mở phân hệ Report -> Các loại sổ -> Chọn Sổ tử vong hoặc Sổ Vào viện - Ra viện - Chuyển viện -> Bấm Xem/In, cột Tử vong hiển thị chính xác ngày giờ tử vong của bệnh nhân.
+- Thực hiện theo mô tả [HIỂN THỊ ĐÚNG NGÀY GIỜ TỬ VONG TRÊN SỔ TỬ VONG VÀ SỔ VÀO VIỆN - RA VIỆN - CHUYỂN VIỆN](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-hien-thi-dung-ngay-gio-tu-vong-cac-loai-so.md)
+  ![](https://images-worker.tlt37.workers.dev/i/01a06a87-1f2c-7fb5-92da-9a5c810d1bbc)
+
 ## [v.3.26.0902.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609020-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - XML 3176 mã loại KCB 02 bệnh án ngoại trú ngày không lấy được thông tin Quá trình bệnh lý (BV Ô Môn) #984
 	
