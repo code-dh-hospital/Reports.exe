@@ -6,6 +6,28 @@
 
 #
 
+## [v.3.26.0907.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609071-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: LỖI - Số ngày điều trị trên form chỉ định CLS Prescription và Mô tả ma_loai_kcb_QD1804: MA_LOAI_KCB = 02 và 08 thiếu cách lấy SO_NGAY_DTRI #986
+
+	+ Cập nhật: Report
+
+	Fix lỗi BA_NGOAITRU không lấy được SO_NGAY_DTI khi MA_LOAI_KCB = '08'
+
+	![](https://i.vgy.me/UMf04j.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/986
+
+## [v.3.26.0907.0]()
+- 🐛: LỖI - Số ngày điều trị trên form chỉ định CLS Prescription và Mô tả ma_loai_kcb_QD1804: MA_LOAI_KCB = 02 và 08 thiếu cách lấy SO_NGAY_DTRI #986
+
+	+ Cập nhật: Report
+
+	Fix lỗi BA_NGOAITRU không lấy được SO_NGAY_DTI khi MA_LOAI_KCB = '08'
+
+	![](https://i.vgy.me/UMf04j.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/986
+
 ## [v.3.26.0904.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609041-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Reports & Statistics] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmReports_Load` và tự động nạp `background_dh` qua `Utilities.Forms.FrmHome`, tự động đổi tiêu đề thành `DH.HIS Reports`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp (expMain.Groups["help"]) khi `DHHIS_BANQUYEN=1`.
 - 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
