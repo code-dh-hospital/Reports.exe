@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609080-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật lại tên các nút QĐ3176 theo mô tả [XML130/Cap-nhat-tieu-de-form-doi-soat-XML3176.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Cap-nhat-tieu-de-form-doi-soat-XML3176.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczPYnEjjF5YGofEhJSAH6ROxwdf33jBHD4Re8L1IGvh7XAMeNxR0ic8uSUE34rqPrwJgVhsCP3RuRa9uMG0wcT_-tvbVU9Cw5Fsv_lAVkmxhpHgQKNIEwFq-KiHvFSMPAyggPel50X2V9SgKjBda_KrW=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPWPR5AGCqgOJmrDo2D86OIXtMyRpjjxPb87NQCkyTy9G_WPIQMiN3agDwe7tvDwemOshpcAE38lhO7uqQ-jppxld0m-Jjfp2-nLcCfrr5wlkAYojAyIaZEeZjhvWqcs0ZKx9-_r_hty-H8DVUhyOQT=w1655-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/685#issuecomment-34662 (hdhiswork/YEUCAU#685)
+
 ## [v.3.26.0907.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609071-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - Số ngày điều trị trên form chỉ định CLS Prescription và Mô tả ma_loai_kcb_QD1804: MA_LOAI_KCB = 02 và 08 thiếu cách lấy SO_NGAY_DTRI #986
 
