@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Printer & OTH.Entity, OTH.Adapter, OTH.XForms.v.1.0] Bổ sung tùy chọn cấu hình trong Form Option BHXH (`XFrmOptionBHXH`) cho phép xác định `MA_DOITUONG_KCB (1.16, 1.17)` theo toàn bộ mã ICD (mặc định) hoặc chỉ theo mã ICD bệnh chính.
+- 🐛: [Printer & OTH.Adapter] Khắc phục lỗi Cổng BHXH từ chối hồ sơ khi xác định mã đối tượng KCB 1.16/1.17 dựa trên chẩn đoán phụ trong khi chẩn đoán chính không thuộc cấp chuyên môn 1.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/911
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/26
+- 📕: Cập nhật nạp thư viện OTH mới phục vụ in ấn phiếu KCB và đồng bộ dữ liệu giám định BHXH (HospitalPrinter.exe).
+- Thực hiện theo mô tả [TÙY CHỌN XÁC ĐỊNH MÃ ĐỐI TƯỢNG KCB (1.16, 1.17) THEO ICD CHÍNH TRONG FORM OPTION BHXH](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/Mo-ta-xac-dinh-ma-doi-tuong-kcb-116-117-theo-icd-chinh.md)
+  ![](https://images-worker.tlt22.workers.dev/i/01a080ee-1446-74e7-91b0-f92d16f8247e)
+
 ## [v.3.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609080-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật lại tên các nút QĐ3176 theo mô tả [XML130/Cap-nhat-tieu-de-form-doi-soat-XML3176.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Cap-nhat-tieu-de-form-doi-soat-XML3176.md).
