@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0916.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609160-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/727
+- 📕: Fix lỗi hồ sơ gửi cổng thiếu kyQT dẫn đến lỗi kyQT không hợp lệ
+
 ## [v.3.26.0912.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp cấu hình BuildZip|AnyCPU (xuất bin\BuildZip) + Pre/PostBuildEvent gọi visualstudio-external-tool.js; đồng bộ Resources/DH.ModuleClient.exe bản mới qua syncModuleClientExe khi build DH.ModuleClientV2
 - 🐛: ClsMain bỏ qua kiểm tra cập nhật DH.ModuleClient khi debug (Debugger.IsAttached) và thoát ngay sau luồng cập nhật, tránh chạy lọt xuống nhánh chính
