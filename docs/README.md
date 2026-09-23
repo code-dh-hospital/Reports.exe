@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: `Sửa lỗi missing FROM-clause entry for table "cls" khi xem Sổ Phẫu thuật - Sổ Thủ thuật khi tham số phanloaipt.baocao = 1`
+- ☑: `https://i.dh-his.com/hdhiswork/LOI/issues/1004`
+- 📗: `current.ekippt, current.phauthuat, current.dmcls, current.dmloaipt`
+- 📕: `Báo cáo -> Sổ phẫu thuật / Sổ thủ thuật: hiển thị danh sách và ekip bình thường không lỗi`
+- Thực hiện theo mô tả: [Mô tả sửa lỗi Sổ Phẫu thuật - Thủ thuật missing cls](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Mo-ta-Sua-loi-so-phau-thuat-thu-thuat-missing-cls.md)
+
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1004/debug-image-report-frmsophauthuatthuthuat-xem.png)
+
 ## [v.3.26.0916.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609160-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/727
