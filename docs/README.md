@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1001.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610011-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Yêu cầu - Khắc phục MissingMethodException hàm toSerializeXmlBHXHAutoCDDataByGPT khi ký số/xuất XML TT12 (BV Ô Môn) #941 (Tester phản hồi tại comment #45648)
+- 📕: Bổ sung overload 4 tham số tại OTH.Common đảm bảo tương thích ngược nhị phân cho các module DLL/EXE cũ khi xuất XML ký số (XuatXML_KySo); duy trì bảo toàn nguyên vẹn 100% ký tự Unicode tổ hợp NFD cho các danh mục mẫu 03, 04, 05 Thông tư 12 khi xuất XML.
+- Thực hiện theo mô tả [Mô tả xuất XML mẫu 03, 04, 05 TT12 đúng ký tự](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Mo-ta-xuat-xml-mau-03-04-05-tt12-dung-ky-tu-issue-941.md)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/941
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-941/debug-image-admin-frmdm03_thuoc-xuatxml-tt12.png)
+
 ## [v.3.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610010-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [DH.XML4750] Xuất XML mẫu 03, 04, 05 TT12 đúng ký tự theo thông tin đã nhập (BV Ô Môn)
 - 📕: Bảo toàn 100% nguyên trạng ký tự Unicode tổ hợp (NFD) và độ dài chuỗi khi xuất XML danh mục Thông tư 12 mẫu 03 (Thuốc), mẫu 04 (VTYT), mẫu 05 (CLS). Khắc phục triệt để lỗi hàm CleanDanglingU0300 ép chuẩn hóa FormC làm co rút chuỗi ký tự (Ví dụ: "Việt Nam" 9 ký tự bị co thành 8 ký tự), đảm bảo Cổng tiếp nhận Giám định BHYT so khớp đúng từng ký tự và không còn bị từ chối.
