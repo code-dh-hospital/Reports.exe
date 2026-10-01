@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610010-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [DH.XML4750] Xuất XML mẫu 03, 04, 05 TT12 đúng ký tự theo thông tin đã nhập (BV Ô Môn)
+- 📕: Bảo toàn 100% nguyên trạng ký tự Unicode tổ hợp (NFD) và độ dài chuỗi khi xuất XML danh mục Thông tư 12 mẫu 03 (Thuốc), mẫu 04 (VTYT), mẫu 05 (CLS). Khắc phục triệt để lỗi hàm CleanDanglingU0300 ép chuẩn hóa FormC làm co rút chuỗi ký tự (Ví dụ: "Việt Nam" 9 ký tự bị co thành 8 ký tự), đảm bảo Cổng tiếp nhận Giám định BHYT so khớp đúng từng ký tự và không còn bị từ chối.
+- Thực hiện theo mô tả [Mô tả xuất XML mẫu 03, 04, 05 TT12 đúng ký tự](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Mo-ta-xuat-xml-mau-03-04-05-tt12-dung-ky-tu-issue-941.md)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/941
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-941/debug-image-admin-frmdm03_thuoc-xuatxml-tt12.png)
+
 ## [v.3.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32609250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Đóng gói các DLL OTH.Entity.dll, OTH.Adapter.dll mới nhất — khắc phục lỗi XML1 thiếu thông tin giấy chuyển tuyến (GIAY_CHUYEN_TUYEN) đối với đối tượng KCB 1.3 (bệnh nhân có giấy chuyển viện đến tiếp nhận ngoại trú/nội trú).
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1009
