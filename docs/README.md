@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ nhận diện thương hiệu DH.HIS theo biến môi trường DHHIS_BANQUYEN=1: nạp thư viện LibraryApp mới, tự động đổi hình nền đăng nhập FrmDangNhap theo tông màu y tế background_dh, chuẩn hóa thanh trạng thái Status Bar 4 ô với biểu tượng logoDH và gán tiêu đề Form Home DH.HIS Reports.
+- 🐛: Khắc phục lỗi kiểm tra kết nối ClsConnection.v_conn trong FrmDangNhap, đảm bảo phân hệ khởi chạy an toàn khi kiểm thử hoặc ngoại tuyến.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34#issuecomment-46526 (hdhiswork/DUAN#34)
+- 📗: Không thay đổi cấu trúc bảng hay dữ liệu PostgreSQL, cơ chế bản quyền chạy độc lập hoàn toàn với CSDL.
+- 📕: Khi biến môi trường DHHIS_BANQUYEN=1:
+  1. Giao diện đăng nhập FrmDangNhap chuyển sang hình nền nhận diện DH.HIS, loại bỏ thương hiệu cũ DHG Pharma.
+  2. Tiêu đề Form Home chuyển thành DH.HIS Reports.
+  3. Thanh trạng thái Status Bar chuẩn hóa 4 ô: Tháng làm việc: MM/YYYY | Tài khoản đăng nhập: Fullname | [logoDH] Bản quyền © 2020-2026 thuộc về DH | Phiên bản: <version>.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmdangnhap-giaodien-default.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmdangnhap-giaodien-dhhis.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmhome-tieude-12phanhe.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-statusbar-thanhtrangthai-dhhis.png)
+
 ## [v.3.26.1001.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610011-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Yêu cầu - Khắc phục MissingMethodException hàm toSerializeXmlBHXHAutoCDDataByGPT khi ký số/xuất XML TT12 (BV Ô Môn) #941 (Tester phản hồi tại comment #45648)
 - 📕: Bổ sung overload 4 tham số tại OTH.Common đảm bảo tương thích ngược nhị phân cho các module DLL/EXE cũ khi xuất XML ký số (XuatXML_KySo); duy trì bảo toàn nguyên vẹn 100% ký tự Unicode tổ hợp NFD cho các danh mục mẫu 03, 04, 05 Thông tư 12 khi xuất XML.
