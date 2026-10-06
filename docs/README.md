@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1006.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610061-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Hỗ trợ lấy tên trưởng khoa theo họ lót không chức danh cho Giấy ra viện (CT03) CV3220
+- 🐛: Khắc phục lỗi gửi cổng BHXH báo sai tên trưởng khoa do dính chức danh/học hàm
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/952
+- 📗: current.dmnhanvien (holot_thuan, holot, ten, macc_hanhnghe_cv2348)
+- 📕: Chức năng gửi dữ liệu theo công văn 3220 (FrmCV3220 tab CT03 - Giấy ra viện)
+- Thực hiện theo mô tả [Mô tả CV3220 giấy ra viện họ lót không chức danh](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Mo-ta-CV3220-giay-ra-vien-ho-lot-khong-chuc-danh.md)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-952/debug-image-reports-frmcv3220-giayravien-holotkcd.png)
+
 ## [v.3.26.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ nhận diện thương hiệu DH.HIS theo biến môi trường DHHIS_BANQUYEN=1: nạp thư viện LibraryApp mới, tự động đổi hình nền đăng nhập FrmDangNhap theo tông màu y tế background_dh, chuẩn hóa thanh trạng thái Status Bar 4 ô với biểu tượng logoDH và gán tiêu đề Form Home DH.HIS Reports.
 - 🐛: Khắc phục lỗi kiểm tra kết nối ClsConnection.v_conn trong FrmDangNhap, đảm bảo phân hệ khởi chạy an toàn khi kiểm thử hoặc ngoại tuyến.
