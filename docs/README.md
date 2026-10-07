@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1007.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610070-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp chuẩn hóa giao diện bản quyền DH.HIS Reports khi kích hoạt DHHIS_BANQUYEN
+- 🐛: Đồng bộ tiêu đề DH.HIS Reports trên tab Form Home và thanh trạng thái chứa logoDH
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34#issuecomment-47093 (hdhiswork/DUAN#34)
+- 📗: Không thay đổi CSDL
+- 📕: Chuẩn hóa nhận diện thương hiệu DH.HIS theo biến môi trường DHHIS_BANQUYEN = 1
+
 ## [v.3.26.1006.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610061-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Hỗ trợ lấy tên trưởng khoa theo họ lót không chức danh cho Giấy ra viện (CT03) CV3220
 - 🐛: Khắc phục lỗi gửi cổng BHXH báo sai tên trưởng khoa do dính chức danh/học hàm
