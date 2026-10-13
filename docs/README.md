@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Báo cáo & Giấy báo tử: Cập nhật đồng bộ thư viện DH.ThongTinKSK xử lý riêng biệt ánh xạ tình trạng tử vong (TINH_TRANG_TV) theo chuẩn Công văn 3220/BHXH-CSYT Phụ lục 2 mục 24 khi nhấn nút "Ký và gửi XML CV3220" (tử vong trên đường cấp cứu mã 1, tại CSKCB mã 0); mọi chức năng và nút gửi cũ giữ nguyên
+- 🐛: Khắc phục lỗi Cổng BHXH từ chối tiếp nhận XML Giấy báo tử ("Lỗi: Đọc và xử lý file thất bại") do trường TINH_TRANG_TV mang giá trị 2 ngoài quy định XSD khi gửi qua nút Ký và gửi XML CV3220
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1036
+- 📗: Cập nhật DLL liên quan: DH.ThongTinKSK (FORMS/FrmGiayBaoTu.cs). Không thay đổi CSDL; dữ liệu lưu trữ 1 và 2 lịch sử được bảo toàn nguyên vẹn
+- 📕: Nghiệp vụ Giấy báo tử (Reports -> Giấy báo tử): Nút "&Gửi" theo chuẩn cũ giữ nguyên. Khi click nút "Ký và gửi XML CV3220", dữ liệu tự động chuyển đổi tinhtrangtv == 2 thành 1 (tử vong trên đường cấp cứu) và ngược lại thành 0 theo chuẩn CV3220. Chi tiết tài liệu: [Mo-ta-CV3220-giay-bao-tu-tinh-trang-tu-vong.md](../../Mo-ta-he-thong/BHXH/Mo-ta-CV3220-giay-bao-tu-tinh-trang-tu-vong.md)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1036/debug-image-reports-frmgiaybaotu-tinhtrangtv.png)
+
 ## [v.3.26.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32610090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Bổ sung lại mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị MaBVBH
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
