@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Báo cáo Công văn 3220 và Sổ xuất viện -> Excel (CV 4811/BHXH): số BHXH lấy theo số đã nhập ở thông tin bệnh nhân (10 hoặc 12 chữ số), không có thì lấy theo thẻ BHYT (thẻ 17 ký tự -> đủ 12 số). Cập nhật DLL DH.ThongTinKSK, DataHelper.
+- 🐛: Khắc phục số BHXH bị trống với bệnh nhân không có thẻ (thu phí) có nhập số BHXH, và bị cắt còn 10 số với thẻ 17 ký tự (Giấy ra viện, Tóm tắt HSBA, Giấy xác nhận điều trị nội trú, Excel CV 4811).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/894 (báo cáo: https://i.dh-his.com/code-dh-hospital/dh-hos-code-only/pulls/302)
+- 📗: Cập nhật DLL liên quan: DH.ThongTinKSK (DAL/CV3220Adapter.cs), DataHelper (Books/SoAdapter.cs). Không thay đổi CSDL. Mô tả: [Mo-ta-CV3220-CV4811-so-bhxh-theo-du-lieu-nhap.md](../../Mo-ta-he-thong/BHXH/Mo-ta-CV3220-CV4811-so-bhxh-theo-du-lieu-nhap.md)
+- 📕: Report -> Tiện ích -> Gửi dữ liệu Công văn 3220/BHXH-CNTT -> Xem; Report -> Các loại sổ -> Sổ xuất viện -> Xem -> Excel (CV 4811/BHXH): kiểm tra cột số BHXH trước khi gửi cổng.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-894/debug-image-reports-frmreports-cv3220-ct03-fullflow.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-894/debug-image-reports-frmreports-soxuatvien-fullflow-excel-cv4811-ma-sobhxh.png)
+
 ## [v.3.26.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Báo cáo Công văn 3220: Cập nhật đồng bộ thư viện DH.ThongTinKSK (1.26.1104.0) - Giấy chứng nhận nghỉ việc hưởng BHXH (CT07) và Giấy xác nhận nghỉ dưỡng thai (CT06) lấy mã/tên ICD của phòng khám đầu tiên có ICD, khớp chẩn đoán in trên giấy nghỉ ốm
 - 🐛: Khắc phục lỗi CV3220 trống mã ICD và tên ICD (lưới và XML gửi cổng BENH_ICD10_ID, BENH_ICD10_TEN) khi bệnh nhân đăng ký phòng đầu tiên nhưng được chuyển sang phòng khác khám
