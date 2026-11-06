@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1106.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611061-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [DH.DALCLS] [Đợt 2] Hiệu chỉnh lấy ngày giờ chỉ định ưu tiên theo trường chidinhcls.ngaykcb (COALESCE(ls.ngaykcb, ls.ngaycd) AS ngaycd) trên Sổ thủ thuật / phẫu thuật.
+- 🐛: Khắc phục trường hợp bệnh nhân nội trú có chỉnh sửa ngày giờ thực hiện thủ thuật làm lệch thời gian hiển thị so với form điều trị nội trú Treatment (Comment #52118).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1002#issuecomment-52118 (hdhiswork/YEUCAU#1002)
+- 📗: Đảo thứ tự ưu tiên trường ngaykcb và ngaycd trong current.chidinhcls.
+- 📕: Mở phân hệ Báo cáo viện phí / Báo cáo CLS -> Sổ thủ thuật / phẫu thuật -> Tra cứu bệnh nhân nội trú để kiểm tra mốc thời gian chỉ định khớp với y lệnh.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1002/debug-image-report-frmsophauthuatthuthuat-dalieu.png)
+
 ## [v.3.26.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [DH.ReportCLS/DH.DALCLS] Bổ sung hiển thị và xuất báo cáo ngày/giờ chỉ định, ngày/giờ bắt đầu và ngày/giờ kết thúc trên giao diện Sổ thủ thuật / phẫu thuật (FrmSoPhauThuat_ThuThuat).
 - 🐛: Khắc phục việc thiếu trường thời gian chỉ định và thời gian hoàn tất thủ thuật phục vụ công tác đối soát hồ sơ bệnh án theo yêu cầu BV YHCT Cần Thơ.
