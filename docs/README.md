@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [DH.ReportCLS/DH.DALCLS] Bổ sung hiển thị và xuất báo cáo ngày/giờ chỉ định, ngày/giờ bắt đầu và ngày/giờ kết thúc trên giao diện Sổ thủ thuật / phẫu thuật (FrmSoPhauThuat_ThuThuat).
+- 🐛: Khắc phục việc thiếu trường thời gian chỉ định và thời gian hoàn tất thủ thuật phục vụ công tác đối soát hồ sơ bệnh án theo yêu cầu BV YHCT Cần Thơ.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1002
+- 📗: Sử dụng các trường ngaycd từ current.chidinhcls và ngaygiobd, ngaygiokt từ current.phauthuat.
+- 📕: Mở phân hệ Báo cáo viện phí / Báo cáo CLS -> Sổ thủ thuật / Sổ phẫu thuật -> Tra cứu theo đợt điều trị hoặc khoảng thời gian.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1002/debug-image-report-frmsophauthuatthuthuat-xem.png)
+
 ## [v.3.26.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Báo cáo Công văn 3220 và Sổ xuất viện -> Excel (CV 4811/BHXH): số BHXH lấy theo số đã nhập ở thông tin bệnh nhân (10 hoặc 12 chữ số), không có thì lấy theo thẻ BHYT (thẻ 17 ký tự -> đủ 12 số). Cập nhật DLL DH.ThongTinKSK, DataHelper.
 - 🐛: Khắc phục số BHXH bị trống với bệnh nhân không có thẻ (thu phí) có nhập số BHXH, và bị cắt còn 10 số với thẻ 17 ký tự (Giấy ra viện, Tóm tắt HSBA, Giấy xác nhận điều trị nội trú, Excel CV 4811).
