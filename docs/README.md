@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung tính năng cho phép cập nhật lại Người đại diện (thủ trưởng đơn vị) trực tiếp trên lưới CT03 Giấy ra viện (FrmCV3220) qua MultiColumnCombo tìm kiếm nhanh (Type-ahead search), quản lý trạng thái nút Chỉnh/Lưu/Bỏ qua, khóa chuyển tab im lặng, chặn sửa dòng đã gửi cổng BHXH, cập nhật theo transaction và tự động ghi nhật ký hệ thống.
+- 🐛: Khắc phục lỗi runtime NotSupportedException trên GridEXDropDown; khắc phục lỗi hardcode thẻ THU_TRUONG_DVI lấy cố định {giamdoc} trên Cổng CV 3220; chuẩn hóa ghi nhật ký hệ thống hiển thị chính xác tên tài khoản Quản Trị Hệ thống và module DHG.Hospital Reports.
+- ☑: [YEUCAU Issue #924](https://i.dh-his.com/hdhiswork/YEUCAU/issues/924)
+- 📗: Cập nhật manv_daidien_giayravien trong current.bnnoitru, truy vấn kết hợp current.dmnhanvien.
+- 📕: [Mo-ta-CV3220-cap-nhat-nguoi-dai-dien-giay-ra-vien.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Mo-ta-CV3220-cap-nhat-nguoi-dai-dien-giay-ra-vien.md)
+![](https://i.vgy.me/Pup1HL.png)
+
 ## [v.3.26.1106.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611061-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [DH.DALCLS] [Đợt 2] Hiệu chỉnh lấy ngày giờ chỉ định ưu tiên theo trường chidinhcls.ngaykcb (COALESCE(ls.ngaykcb, ls.ngaycd) AS ngaycd) trên Sổ thủ thuật / phẫu thuật.
 - 🐛: Khắc phục trường hợp bệnh nhân nội trú có chỉnh sửa ngày giờ thực hiện thủ thuật làm lệch thời gian hiển thị so với form điều trị nội trú Treatment (Comment #52118).
