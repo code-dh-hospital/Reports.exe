@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [DH.ThongTinKSK] Khắc phục lỗi Giấy ra viện CV 3220 (CT03) và Tóm tắt hồ sơ bệnh án (CT04) không lấy được họ tên cha/mẹ cho bệnh nhân trẻ em dưới 7 tuổi có thẻ BHYT diện khác TE (như thẻ dân tộc thiểu số AK).
+- ✨: [DH.ThongTinKSK] Chuẩn hóa điều kiện trích xuất họ tên cha/mẹ theo chuỗi quan hệ `loaiqh`, bỏ điều kiện ràng buộc đối tượng BHYT trẻ em `dtuong.bhyt=2`.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1088
+- 📗: CSDL `tra_tracu_giayravien_13112026` - Bảng `psdangky` (trường `loaiqh`, `hotenqh`) và `psxml3220` (CT03/CT04).
+- 📕: [Reports] Người dùng mở chức năng Giấy ra viện CV 3220 từ phân hệ Báo cáo, hệ thống tự động điền đầy đủ họ tên cha hoặc mẹ đối với trẻ em dưới 7 tuổi để cổng BHXH tiếp nhận hợp lệ.
+![Hiển thị họ tên mẹ trên FrmCV3220](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1088/debug-image-reports-frmcv3220-giayravien-hotenchame.png)
+![Quy trình xuất dữ liệu CV3220](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1088/debug-image-reports-fullflow-frmcv3220-giayravien.png)
+
 ## [v.3.26.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung tính năng cho phép cập nhật lại Người đại diện (thủ trưởng đơn vị) trực tiếp trên lưới CT03 Giấy ra viện (FrmCV3220) qua MultiColumnCombo tìm kiếm nhanh (Type-ahead search), quản lý trạng thái nút Chỉnh/Lưu/Bỏ qua, khóa chuyển tab im lặng, chặn sửa dòng đã gửi cổng BHXH, cập nhật theo transaction và tự động ghi nhật ký hệ thống.
 - 🐛: Khắc phục lỗi runtime NotSupportedException trên GridEXDropDown; khắc phục lỗi hardcode thẻ THU_TRUONG_DVI lấy cố định {giamdoc} trên Cổng CV 3220; chuẩn hóa ghi nhật ký hệ thống hiển thị chính xác tên tài khoản Quản Trị Hệ thống và module DHG.Hospital Reports.
