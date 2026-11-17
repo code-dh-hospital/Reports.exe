@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Sổ chẩn đoán hình ảnh (Báo cáo -> Sổ chẩn đoán, form dùng chung Statistics.Books.FrmSoChanDoanHinhAnh): cột 'Nhân viên thực hiện y lệnh' hiển thị người trả kết quả + toàn bộ bộ ekip đã chọn khi thực hiện (giống XML3.NGUOI_THUC_HIEN), bỏ trùng tên, cách nhau '; '. Phát hành Reports kèm DLL: DataHelper 1.26.1116.0 (SoAdapter.GetSoChanDoan) - cùng thay đổi đã phát hành ở Diagnose 3.26.1116.0.
+- 🐛: Khắc phục Sổ chẩn đoán hình ảnh trên Reports chỉ hiện 1 nhân viên (tài khoản trả kết quả) trong khi XML3.NGUOI_THUC_HIEN đã xuất đủ bộ ekip.
+- ☑: [hdhiswork/YEUCAU#1009](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1009) - đề xuất của tester: [#issuecomment-53505](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1009#issuecomment-53505 (hdhiswork/YEUCAU#1009))
+- 📗: Không thay đổi CSDL. Mô tả: [Mo-ta-yeucau-1009-so-cdha-nhanvien-ekip.md](../../Mo-ta-he-thong/DIAGNOSE/Mo-ta-yeucau-1009-so-cdha-nhanvien-ekip.md)
+- 📕: Báo cáo -> Sổ chẩn đoán -> chọn thời gian -> Xem: CLS có chọn bộ ekip hiện 'người trả KQ; thành viên ekip...'; CLS không có ekip hiện như cũ.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1009/debug-image-diagnose-frmsochandoanhinhanh-nhanvien-ekip.png)
+
 ## [v.3.26.1113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611130-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [DH.ThongTinKSK] Khắc phục lỗi Giấy ra viện CV 3220 (CT03) và Tóm tắt hồ sơ bệnh án (CT04) không lấy được họ tên cha/mẹ cho bệnh nhân trẻ em dưới 7 tuổi có thẻ BHYT diện khác TE (như thẻ dân tộc thiểu số AK).
 - ✨: [DH.ThongTinKSK] Chuẩn hóa điều kiện trích xuất họ tên cha/mẹ theo chuỗi quan hệ `loaiqh`, bỏ điều kiện ràng buộc đối tượng BHYT trẻ em `dtuong.bhyt=2`.
