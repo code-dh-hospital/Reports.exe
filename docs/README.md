@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Reports] Bổ sung và đồng bộ tính năng ghi nhận người thực hiện, ngày kết quả công khám bảng XML3 theo QĐ 3176/4750 (BV TMĐ TG)
+- 🐛: Đồng bộ cập nhật từ OTH.Entity, OTH.Adapter và OTH.XForms.v.1.0 cho phân hệ Báo cáo
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/993
+- 📗: Lưu cấu hình EOptionBHXH vào current.coderun
+- 📕: Phân hệ Báo cáo đồng bộ dữ liệu xuất XML 4750/3176 với người thực hiện và ngày kết quả công khám
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-993/debug-image-admin-xfrmbkxuatxml4750-xml03-congkham.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-993/debug-image-admin-xfrmoptionbhxh-cauhinh-xml3.png)
+
 ## [v.3.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Sổ chẩn đoán hình ảnh (Báo cáo -> Sổ chẩn đoán, form dùng chung Statistics.Books.FrmSoChanDoanHinhAnh): cột 'Nhân viên thực hiện y lệnh' hiển thị người trả kết quả + toàn bộ bộ ekip đã chọn khi thực hiện (giống XML3.NGUOI_THUC_HIEN), bỏ trùng tên, cách nhau '; '. Phát hành Reports kèm DLL: DataHelper 1.26.1116.0 (SoAdapter.GetSoChanDoan) - cùng thay đổi đã phát hành ở Diagnose 3.26.1116.0.
 - 🐛: Khắc phục Sổ chẩn đoán hình ảnh trên Reports chỉ hiện 1 nhân viên (tài khoản trả kết quả) trong khi XML3.NGUOI_THUC_HIEN đã xuất đủ bộ ekip.
