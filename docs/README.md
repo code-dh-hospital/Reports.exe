@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1126.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611261-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Statistics.HealthInsurance] XML4210: thuốc / vật tư có tỷ lệ thanh toán 50%, 80% đưa phần ngoài tỷ lệ vào BN tự trả (`t_bntt`), không vào BN cùng chi trả.
+- 🐛: [Statistics.HealthInsurance] Sửa lỗi XML4210 thuốc tỷ lệ 50% lấy phần BN tự trả vào cột `t_bncct`, đối soát XML130 báo màu vàng: `FrmQD4210.addAutoIncrementColumnSTT` chỉ áp `t_bncct = thanh_tien - t_bhtt` (LOI#234) cho dịch vụ kỹ thuật.
+- ☑: [hdhiswork/LOI#1109](https://i.dh-his.com/hdhiswork/LOI/issues/1109)
+- 📗: Không thay đổi CSDL, không thêm tham số. Mô tả: [Mo-ta-loi-1109-xml4210-thuoc-vattu-tyle-50-80-bn-tu-tra.md](../../Mo-ta-he-thong/XML4210/Mo-ta-loi-1109-xml4210-thuoc-vattu-tyle-50-80-bn-tu-tra.md)
+- 📕: Reports -> Xuất dữ liệu theo QĐ 4210 -> Xem: thuốc tỷ lệ 50% có `t_bncct` = 0, `t_bntt` = phần ngoài tỷ lệ; Kiểm tra và cập nhật hồ sơ XML130 không còn màu vàng.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1109/debug-image-reports-frmqd4210-bang2-thuoc-tyle50.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1109/debug-image-reports-frmcheck4210-130-hople.png)
+
 ## [v.3.26.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611260-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [DH.ThongTinKSK] CV3220 (cả 7 mẫu CT03, CT04, CT06, CT07, Điều trị nội trú, Điều trị vô sinh, Sức khỏe mẹ): bệnh nhân không có số CCCD thì loại giấy tờ = 0 trên form và XML gửi cổng.
 - 🐛: [DH.ThongTinKSK] Sửa lỗi cổng BHXH báo `SO_CCCD không được bỏ trống` khi bệnh nhân đã chọn loại giấy tờ (vd 1 - CCCD) nhưng không có số: `CV3220Adapter.sql_LOAI_GIAYTO_CCCD_BY_TT25` kiểm tra số trước, không có số → `'0'`.
