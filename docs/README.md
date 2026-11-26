@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [DH.ThongTinKSK] CV3220 (cả 7 mẫu CT03, CT04, CT06, CT07, Điều trị nội trú, Điều trị vô sinh, Sức khỏe mẹ): bệnh nhân không có số CCCD thì loại giấy tờ = 0 trên form và XML gửi cổng.
+- 🐛: [DH.ThongTinKSK] Sửa lỗi cổng BHXH báo `SO_CCCD không được bỏ trống` khi bệnh nhân đã chọn loại giấy tờ (vd 1 - CCCD) nhưng không có số: `CV3220Adapter.sql_LOAI_GIAYTO_CCCD_BY_TT25` kiểm tra số trước, không có số → `'0'`.
+- ☑: [hdhiswork/YEUCAU#1057](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1057)
+- 📗: Không thay đổi CSDL, không thêm tham số. Mô tả: [Mo-ta-yeucau-1057-cv3220-loai-giay-to-0-khi-khong-co-so-cccd.md](../../Mo-ta-he-thong/BHXH/Mo-ta-yeucau-1057-cv3220-loai-giay-to-0-khi-khong-co-so-cccd.md)
+- 📕: Báo cáo -> Tiện ích -> Gửi dữ liệu CV3220 -> Xem: dòng không có số CCCD có `loai_giayto = 0`. Hồ sơ đã gửi bị lỗi: chọn lại, bấm **Ký và gửi XML** (không dùng **Gửi lại** vì gửi lại XML đã ký cũ).
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1057/debug-image-reports-frmcv3220-giayravien-loaigiayto-0.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1057/debug-image-reports-frmcv3220-xml-ct03-loaigiayto-0.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1057/debug-image-reports-cv3220-test-4-kieu-bc.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1057/debug-image-reports-cv3220-test-xml-7-mau.png)
+
 ## [v.3.26.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FReportsexe%2F32611171-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Reports] Bổ sung và đồng bộ tính năng ghi nhận người thực hiện, ngày kết quả công khám bảng XML3 theo QĐ 3176/4750 (BV TMĐ TG)
 - 🐛: Đồng bộ cập nhật từ OTH.Entity, OTH.Adapter và OTH.XForms.v.1.0 cho phân hệ Báo cáo
